@@ -4,77 +4,148 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LiKo Automation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fafafa;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin-right: 30px;
+        }
+
+        nav ul li button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        nav ul li button:hover {
+            background-color: #45a049;
+        }
+
+        section {
+            display: none;
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        footer p {
+            font-size: 14px;
+        }
+
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+    </style>
 </head>
 <body>
 
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#uvod">ÚVOD</a></li>
-                <li><a href="#automobilizace">AUTOMATIZACE</a></li>
-                <li><a href="#digitalizace">DIGITALIZACE</a></li>
-                <li><a href="#inovace">INOVACE</a></li>
-                <li><a href="#iot">IOT</a></li>
-                <li><a href="#kontakty">KONTAKTY</a></li>
-            </ul>
-        </nav>
-    </header>
+<header>
+    <h1>LiKo Automation</h1>
+    <nav>
+        <ul>
+<li><button onclick="toggleContent('ÚVOD')">ÚVOD</button></li>
+<li><button onclick="toggleContent('AUTOMATIZACE')">AUTOMATIZACE</button></li>
+<li><button onclick="toggleContent('DIGITALIZACE')">DIGITALIZACE</button></li>
+<li><button onclick="toggleContent('INOVACE')">INOVACE</button></li>
+<li><button onclick="toggleContent('IOT')">IOT</button></li>
+<li><button onclick="toggleContent('KONTAKTY')">KONTAKTY</button></li>
 
-    <section id="uvod">
-        <h1>ÚVOD</h1>
-        <details>
-            <summary>Úvod</summary>
-            <p>Vítejte na stránkách LiKo Automation! Naší misí je pomáhat firmám optimalizovat procesy, šetřit čas, peníze a zlepšovat produktivitu prostřednictvím moderních technologických řešení. Specializujeme se na automatizaci, digitalizaci a inovace, které přináší efektivitu do vašeho podnikání.</p>
-        </details>
-    </section>
+        </ul>
+    </nav>
+</header>
 
-    <section id="automobilizace">
-        <h1>AUTOMATIZACE</h1>
-        <details>
-            <summary>AUTOMATIZACE</summary>
-            <p>Analýza a automatizace procesů je klíčová pro optimalizaci vašich pracovních postupů. Na základě podrobných analýz zjistíme, kde je možné zefektivnit procesy a eliminovat manuální práci. Díky implementaci automatizačních nástrojů vám ušetříme čas, energii a lidské zdroje, což vede k vyšší efektivitě a nižším nákladům.</p>
-        </details>
-    </section>
+<section id="ÚVOD">
+    <h2>ÚVOD</h2>
+    <p>Vítejte na stránkách LiKo Automation! Naší misí je pomáhat firmám optimalizovat procesy...</p>
+</section>
 
-    <section id="digitalizace">
-        <h1>DIGITALIZACE</h1>
-        <details>
-            <summary>DIGITALIZACE</summary>
-            <p>Digitalizace je krokem ke zjednodušení a zrychlení vašich pracovních postupů. Naší filosofií je přenést tradiční procesy do digitálního světa a tím eliminovat papírování a manuální zadávání dat. Digitalizací zlepšíme přístup k informacím, zjednodušíme práci vašim zaměstnancům a zvýšíme bezpečnost dat.</p>
-        </details>
-    </section>
+<section id="AUTOMATIZACE">
+    <h2>AUTOMATIZACE</h2>
+    <p>Analýza a automatizace procesů je klíčová pro optimalizaci vašich pracovních postupů...</p>
+</section>
 
-    <section id="inovace">
-        <h1>INOVACE</h1>
-        <details>
-            <summary>INOVACE</summary>
-            <p>Inovace jsou základem každého moderního podniku. V rámci našeho přístupu k inovacím nabízíme řešení, která přináší nejen zlepšení existujících procesů, ale i zcela nové možnosti. Na základě trendů v oboru implementujeme moderní technologická řešení, která vám umožní posunout se na novou úroveň.</p>
-        </details>
-    </section>
+<section id="DIGITALIZACE">
+    <h2>DIGITALIZACE</h2>
+    <p>Digitalizace je krokem ke zjednodušení a zrychlení vašich pracovních postupů...</p>
+</section>
 
-    <section id="iot">
-        <h1>IOT</h1>
-        <details>
-            <summary>IOT</summary>
-            <p>Internet věcí (IoT) je klíčovou součástí moderní automatizace a digitalizace. Nabízíme chytrá IoT řešení pro sledování a správu vašich zařízení v reálném čase. S využitím IoT technologie sledujeme výkon, provozní stavy a shromažďujeme data z čidel, což vám umožní lepší rozhodování na základě analytických dat.</p>
-        </details>
-    </section>
+<section id="INOVACE">
+    <h2>INOVACE</h2>
+    <p>Inovace jsou základem každého moderního podniku...</p>
+</section>
 
-    <section id="kontakty">
-        <h1>KONTAKTY</h1>
-        <details>
-            <summary>KONTAKTY</summary>
-            <p><strong>Ing. Libor Kocián</strong><br>
-            696 13 Šardice 390<br>
-            IČO: 24899399<br>
-            Mobil: 602 941 181<br>
-            Email: <a href="mailto:kocian.libor@seznam.cz">kocian.libor@seznam.cz</a></p>
-        </details>
-    </section>
+<section id="IOT">
+    <h2>IOT</h2>
+    <p>Internet věcí (IoT) je klíčovou součástí moderní automatizace...</p>
+</section>
 
-    <footer>
-        <p>&copy; 2023 LiKo Automation | Všechna práva vyhrazena.</p>
-    </footer>
+<section id="KONTAKTY">
+    <h2>KONTAKTY</h2>
+    <p>Ing. Libor Kocián
+ 696 13 Šardice 390
+ IČO: 24899399
+ Mobil: 602 941 181
+ Email: kocian.libor@seznam.cz</p>
+</section>
+
+<footer>
+    <p>&copy; 2023 LiKo Automation | Všechna práva vyhrazena.</p>
+</footer>
+
+<script>
+    function toggleContent(sectionId) {
+        const sections = document.querySelectorAll('section');
+        sections.forEach((section) => {
+            if (section.id === sectionId) {
+                section.style.display = section.style.display === 'block' ? 'none' : 'block';
+            } else {
+                section.style.display = 'none';
+            }
+        });
+    }
+</script>
 
 </body>
 </html>
