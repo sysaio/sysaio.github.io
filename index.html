@@ -1,41 +1,51 @@
-
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Firemní stránka</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-top: 50px;
-        }
-        .button {
-            background-color: #4CAF50;
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 20px;
-            margin: 10px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        .button:hover {
-            background-color: #45a049;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Firemní stránka</title>
+  <style>
+    body { font-family: sans-serif; max-width: 1000px; margin: auto; padding: 2em; }
+    button { padding: 0.3em 0.6em; }
+  </style>
 </head>
 <body>
-    <h1>Firemní dokumentace</h1>
-    <div>
-<button class="button" onclick="window.location.href='uvod.md';">UVOD</button>
+  <h1>📚 Firemní dokumentace</h1>
 
-    </div>
+  <input type="text" id="search" placeholder="🔍 Hledat...">
+  <table>
+    <thead>
+      <tr>
+        <th>Návod</th>
+        <th>Poslední úprava</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="html/kontakty.html">kontakty</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="html/uvod.html">uvod</a></td>
+        <td>Sat Apr 4 23:23:18 2026 +0200</td>
+      </tr>
+      <tr>
+        <td><a href="html/uvodek.html">uvodek</a></td>
+        <td>Sat Apr 4 23:32:30 2026 +0200</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script>
+    const searchInput = document.getElementById('search');
+    const rows = document.querySelectorAll('tbody tr');
+
+    searchInput.addEventListener('input', function () {
+      const query = this.value.toLowerCase();
+      rows.forEach(row => {
+        const text = row.innerText.toLowerCase();
+        row.style.display = text.includes(query) ? '' : 'none';
+      });
+    });
+  </script>
 </body>
 </html>
