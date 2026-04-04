@@ -108,7 +108,8 @@ with open(INDEX_FILE, 'w', encoding='utf-8') as f:
   </style>
 </head>
 <body>
-  <h1>Ing. Libor Kocián - Automatizace procesů pomocí chytrých řešení 🤖⚙️💡</h1>
+  <h1>🤖 Ing. Libor Kocián - Chytrá řešení pro automatizaci, digitalizaci, inovace⚙️</h1>
+  <h2>💡 Úvodní analýza vašeho podniku zdarma!</h2>
 
   <input type="text" id="search" placeholder="🔍 Hledat...">
 
