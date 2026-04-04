@@ -108,7 +108,7 @@ with open(INDEX_FILE, 'w', encoding='utf-8') as f:
   </style>
 </head>
 <body>
-  <h1>📚 Firemní dokumentace</h1>
+  <h1>Ing. Libor Kocián - Automatizace procesů pomocí chytrých řešení 🤖⚙️💡</h1>
 
   <input type="text" id="search" placeholder="🔍 Hledat...">
 
