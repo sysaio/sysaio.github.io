@@ -69,41 +69,64 @@ with open(INDEX_FILE, 'w', encoding='utf-8') as f:
   <title>Firemní stránka</title>
   <style>
     body {{ font-family: sans-serif; max-width: 1000px; margin: auto; padding: 2em; }}
-    button {{ padding: 0.3em 0.6em; }}
+    button {{ 
+        padding: 0.6em 1.2em; 
+        background-color: #007BFF;  /* Modrá barva */
+        color: white; 
+        border: none; 
+        border-radius: 5px; 
+        cursor: pointer;
+        margin: 10px;
+        font-size: 16px;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }}
+    button:hover {{
+        background-color: #0056b3;  /* Tmavší modrá při hover */
+    }}
+    #search {{
+        width: 100%;
+        padding: 0.5em;
+        margin-bottom: 20px;
+    }}
+    table {{
+        width: 100%;
+        border-collapse: collapse;
+    }}
+    th, td {{
+        padding: 0.8em;
+        text-align: left;
+        border: 1px solid #ddd;
+    }}
+    th {{
+        background-color: #f2f2f2;
+    }}
   </style>
 </head>
 <body>
   <h1>📚 Firemní dokumentace</h1>
 
   <input type="text" id="search" placeholder="🔍 Hledat...">
-  <table>
-    <thead>
-      <tr>
-        <th>Návod</th>
-        <th>Poslední úprava</th>
-      </tr>
-    </thead>
-    <tbody>
+
+  <div id="buttons-container">
 ''')
 
+    # Vygenerování tlačítek pro každý soubor
     for file in files_html:
-        f.write(f'''      <tr>
-        <td><a href="html/{file['file']}">{file['name']}</a></td>
-        <td>{file['last_modified']}</td>
-      </tr>\n''')
+        f.write(f'''      <button onclick="window.location.href='html/{file['file']}'">{file['name'].capitalize()}</button>\n''')
 
-    f.write('''    </tbody>
-  </table>
+    f.write('''
+  </div>
 
   <script>
     const searchInput = document.getElementById('search');
-    const rows = document.querySelectorAll('tbody tr');
+    const buttons = document.querySelectorAll('button');
 
     searchInput.addEventListener('input', function () {
       const query = this.value.toLowerCase();
-      rows.forEach(row => {
-        const text = row.innerText.toLowerCase();
-        row.style.display = text.includes(query) ? '' : 'none';
+      buttons.forEach(button => {
+        const text = button.innerText.toLowerCase();
+        button.style.display = text.includes(query) ? '' : 'none';
       });
     });
   </script>
