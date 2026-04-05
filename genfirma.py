@@ -1,7 +1,6 @@
 import os
 import markdown
 import subprocess
-from datetime import datetime
 
 # === KONSTANTY ===
 MARKDOWN_DIR = 'mdfirma'
@@ -40,12 +39,11 @@ for md_file in sorted(os.listdir(MARKDOWN_DIR)):
         text = f.read()
 
     html = markdown.markdown(text, extensions=['fenced_code', 'tables'])
-    last_modified = get_git_last_modified_date(md_path)
 
     html_file = f"{name_with_ext}.html"
     html_path = os.path.join('html', html_file)
 
-    # === GENERUJ PODSTRÁNKU ===
+    # === PODSTRÁNKA ===
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(f'''<!DOCTYPE html>
 <html lang="cs">
@@ -55,48 +53,47 @@ for md_file in sorted(os.listdir(MARKDOWN_DIR)):
 <title>{name}</title>
 
 <style>
-  :root {{
-    --bg: #ffffff;
-    --text: #111;
-    --primary: #007BFF;
-  }}
+:root {{
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}}
 
-  body.dark {{
-    --bg: #121212;
-    --text: #eee;
-    --primary: #4da3ff;
-  }}
+body.dark {{
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}}
 
-  body {{
-    font-family: sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    max-width: 800px;
-    margin: auto;
-    padding: 1em;
-    font-size: 18px;
-    line-height: 1.6;
-  }}
+body {{
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.6;
+}}
 
-  a {{
-    color: var(--primary);
-  }}
+a {{
+  color: var(--primary);
+}}
 
-  #top {{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }}
+#top {{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}}
 
-  button {{
-    padding: 0.5em 1em;
-    border: none;
-    background: var(--primary);
-    color: white;
-    border-radius: 6px;
-    cursor: pointer;
-  }}
-
+button {{
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}}
 </style>
 </head>
 
@@ -128,11 +125,10 @@ if (localStorage.getItem('dark-mode') === 'true') {{
     files_html.append({
         'number': int(number),
         'name': name.upper(),
-        'file': html_file,
-        'last_modified': last_modified
+        'file': html_file
     })
 
-# === GENERUJ INDEX ===
+# === INDEX ===
 with open(INDEX_FILE, 'w', encoding='utf-8') as f:
     f.write(f'''<!DOCTYPE html>
 <html lang="cs">
@@ -180,13 +176,6 @@ h2 {{
   margin-bottom: 1em;
 }}
 
-#search {{
-  width: 100%;
-  padding: 0.7em;
-  font-size: 16px;
-  margin: 1em 0;
-}}
-
 #toggle-dark {{
   cursor: pointer;
   padding: 0.5em 1em;
@@ -217,7 +206,6 @@ h2 {{
   background: var(--primary);
   color: white;
 }}
-
 </style>
 </head>
 
@@ -229,8 +217,6 @@ h2 {{
 </div>
 
 <h2>💡 Automatizace • Digitalizace • Inovace</h2>
-
-<input type="text" id="search" placeholder="🔍 Hledat...">
 
 <div id="cards-container">
 ''')
@@ -246,18 +232,6 @@ h2 {{
 </div>
 
 <script>
-const searchInput = document.getElementById('search');
-const cards = document.querySelectorAll('.card');
-
-searchInput.addEventListener('input', function () {
-  const query = this.value.toLowerCase();
-  cards.forEach(card => {
-    const text = card.innerText.toLowerCase();
-    card.style.display = text.includes(query) ? '' : 'none';
-  });
-});
-
-// dark mode
 const toggleBtn = document.getElementById('toggle-dark');
 
 toggleBtn.addEventListener('click', () => {
@@ -274,10 +248,10 @@ if (localStorage.getItem('dark-mode') === 'true') {
 </html>
 ''')
 
-# === GIT COMMIT A PUSH ===
+# === GIT PUSH ===
 try:
     subprocess.run(['git', 'add', '.'], check=True)
-    subprocess.run(['git', 'commit', '-m', 'Automatická aktualizace webu'], check=True)
+    subprocess.run(['git', 'commit', '-m', 'Zjednodušení UI – odstraněno vyhledávání'], check=True)
     subprocess.run(['git', 'push'], check=True)
     print("✅ Změny odeslány na GitHub.")
 except subprocess.CalledProcessError:

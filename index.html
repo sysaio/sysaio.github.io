@@ -44,13 +44,6 @@ h2 {
   margin-bottom: 1em;
 }
 
-#search {
-  width: 100%;
-  padding: 0.7em;
-  font-size: 16px;
-  margin: 1em 0;
-}
-
 #toggle-dark {
   cursor: pointer;
   padding: 0.5em 1em;
@@ -81,7 +74,6 @@ h2 {
   background: var(--primary);
   color: white;
 }
-
 </style>
 </head>
 
@@ -93,8 +85,6 @@ h2 {
 </div>
 
 <h2>💡 Automatizace • Digitalizace • Inovace</h2>
-
-<input type="text" id="search" placeholder="🔍 Hledat...">
 
 <div id="cards-container">
 
@@ -109,18 +99,6 @@ h2 {
 </div>
 
 <script>
-const searchInput = document.getElementById('search');
-const cards = document.querySelectorAll('.card');
-
-searchInput.addEventListener('input', function () {
-  const query = this.value.toLowerCase();
-  cards.forEach(card => {
-    const text = card.innerText.toLowerCase();
-    card.style.display = text.includes(query) ? '' : 'none';
-  });
-});
-
-// dark mode
 const toggleBtn = document.getElementById('toggle-dark');
 
 toggleBtn.addEventListener('click', () => {
