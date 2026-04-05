@@ -10,7 +10,7 @@
 
 ## Kontaktujte nás 📬
 
-Pokud máte nějaké dotazy, vyplňte prosím formulář níže:
+Pokud máte zájem o spolupráci, vyplňte prosím formulář níže:
 
 <form action="mailto:kocian.libor@seznam.cz" method="post" enctype="text/plain">
   <label for="name">Jméno:</label><br>
