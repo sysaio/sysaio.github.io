@@ -6,16 +6,8 @@ import subprocess
 MARKDOWN_DIR = 'mdfirma'
 INDEX_FILE = 'index.html'
 
-# === VYTVOR SLOŽKY PRO HTML ===
+# === VYTVOŘ SLOŽKU PRO HTML ===
 os.makedirs('html', exist_ok=True)
-
-# === ZJISTI DATUM POSLEDNÍ ÚPRAVY ===
-def get_git_last_modified_date(file_path):
-    try:
-        output = subprocess.check_output(['git', 'log', '-1', '--format=%cd', '--', file_path])
-        return output.decode('utf-8').strip()
-    except subprocess.CalledProcessError:
-        return 'Neznámé'
 
 # === GIT PULL ===
 try:
@@ -26,6 +18,7 @@ except subprocess.CalledProcessError:
 
 # === ZPRACUJ .md SOUBORY ===
 files_html = []
+
 for md_file in sorted(os.listdir(MARKDOWN_DIR)):
     if not md_file.endswith('.md'):
         continue
@@ -44,8 +37,7 @@ for md_file in sorted(os.listdir(MARKDOWN_DIR)):
     html_path = os.path.join('html', html_file)
 
     # === PODSTRÁNKA ===
-    with open(html_path, 'w', encoding='utf-8') as f:
-        f.write(f'''<!DOCTYPE html>
+    page_html = f"""<!DOCTYPE html>
 <html lang="cs">
 <head>
 <meta charset="UTF-8">
@@ -73,7 +65,30 @@ body {{
   margin: auto;
   padding: 1em;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.7;
+}}
+
+h1 {{ font-size: 1.8em; }}
+h2 {{ font-size: 1.5em; }}
+h3 {{ font-size: 1.3em; }}
+
+p {{ margin-bottom: 1em; }}
+
+ul, ol {{
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}}
+
+table {{
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}}
+
+th, td {{
+  padding: 0.6em;
+  border: 1px solid #ddd;
 }}
 
 a {{
@@ -120,7 +135,11 @@ if (localStorage.getItem('dark-mode') === 'true') {{
 </script>
 
 </body>
-</html>''')
+</html>
+"""
+
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(page_html)
 
     files_html.append({
         'number': int(number),
@@ -129,8 +148,7 @@ if (localStorage.getItem('dark-mode') === 'true') {{
     })
 
 # === INDEX ===
-with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-    f.write(f'''<!DOCTYPE html>
+index_html = """<!DOCTYPE html>
 <html lang="cs">
 <head>
 <meta charset="UTF-8">
@@ -138,60 +156,60 @@ with open(INDEX_FILE, 'w', encoding='utf-8') as f:
 <title>Firemní stránka</title>
 
 <style>
-:root {{
+:root {
   --bg: #ffffff;
   --text: #111;
   --card: #f5f5f5;
   --primary: #007BFF;
-}}
+}
 
-body.dark {{
+body.dark {
   --bg: #121212;
   --text: #eee;
   --card: #1e1e1e;
   --primary: #4da3ff;
-}}
+}
 
-body {{
+body {
   font-family: sans-serif;
   background: var(--bg);
   color: var(--text);
   margin: auto;
   padding: 1em;
   max-width: 1000px;
-}}
+}
 
-#top-bar {{
+#top-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}}
+}
 
-h1 {{
+h1 {
   font-size: 1.6em;
-}}
+}
 
-h2 {{
+h2 {
   font-size: 1.2em;
   margin-bottom: 1em;
-}}
+}
 
-#toggle-dark {{
+#toggle-dark {
   cursor: pointer;
   padding: 0.5em 1em;
   border: none;
   background: var(--primary);
   color: white;
   border-radius: 6px;
-}}
+}
 
-#cards-container {{
+#cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 12px;
-}}
+}
 
-.card {{
+.card {
   background: var(--card);
   padding: 1em;
   border-radius: 10px;
@@ -199,13 +217,13 @@ h2 {{
   transition: 0.2s;
   font-weight: bold;
   text-align: center;
-}}
+}
 
-.card:hover {{
+.card:hover {
   transform: translateY(-3px);
   background: var(--primary);
   color: white;
-}}
+}
 </style>
 </head>
 
@@ -219,16 +237,18 @@ h2 {{
 <h2>💡 Automatizace • Digitalizace • Inovace</h2>
 
 <div id="cards-container">
-''')
+"""
 
-    for file in sorted(files_html, key=lambda x: x['number']):
-        f.write(f'''
+# přidání karet
+for file in sorted(files_html, key=lambda x: x['number']):
+    index_html += f"""
 <div class="card" onclick="window.location.href='html/{file['file']}'">
   {file['name']}
 </div>
-''')
+"""
 
-    f.write('''
+# zakončení indexu
+index_html += """
 </div>
 
 <script>
@@ -246,12 +266,15 @@ if (localStorage.getItem('dark-mode') === 'true') {
 
 </body>
 </html>
-''')
+"""
+
+with open(INDEX_FILE, 'w', encoding='utf-8') as f:
+    f.write(index_html)
 
 # === GIT PUSH ===
 try:
     subprocess.run(['git', 'add', '.'], check=True)
-    subprocess.run(['git', 'commit', '-m', 'Zjednodušení UI – odstraněno vyhledávání'], check=True)
+    subprocess.run(['git', 'commit', '-m', 'UI update – moderní design + dark mode'], check=True)
     subprocess.run(['git', 'push'], check=True)
     print("✅ Změny odeslány na GitHub.")
 except subprocess.CalledProcessError:
