@@ -1,2 +1,119 @@
 # sysaio.github.io
 Systémy a jejich Automatizace Inovace Optimalizace za pomoci technologií jako je Internet of Things
+
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Firemní stránka</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --card: #f5f5f5;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --card: #1e1e1e;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  margin: auto;
+  padding: 1em;
+  max-width: 1000px;
+}
+
+#top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+#toggle-dark {
+  cursor: pointer;
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+}
+
+#cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.card {
+  background: var(--card);
+  padding: 1em;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  background: var(--primary);
+  color: white;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top-bar">
+  <h1>🤖 Ing. Libor Kocián</h1>
+  <button id="toggle-dark">🌙</button>
+</div>
+
+<h2>💡 Automatizace • Digitalizace • Inovace</h2>
+
+<div id="cards-container">
+
+<div class="card" onclick="window.location.href='html/10_uvod.html'">
+  UVOD
+</div>
+
+<div class="card" onclick="window.location.href='html/20_automatizace.html'">
+  AUTOMATIZACE
+</div>
+
+</div>
+
+<script>
+const toggleBtn = document.getElementById('toggle-dark');
+
+toggleBtn.addEventListener('click', () => {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+});
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
