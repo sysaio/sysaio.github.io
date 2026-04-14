@@ -15,7 +15,7 @@ Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které p�
 
 ## Kontaktujte nás 📞
 
-**Ing. Libor Kocián**
+🌍 **Ing. Libor Kocián**
 
 🏠 **Adresa:** 696 13, Šardice 390
 
