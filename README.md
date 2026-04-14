@@ -1,119 +1,31 @@
 # sysaio.github.io
 Systémy a jejich Automatizace Inovace Optimalizace za pomoci technologií jako je Internet of Things
 
+# 📢 Optimalizace procesů od analýzy po realizaci 🚀
 
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Firemní stránka</title>
+Pomáháme firmám **optimalizovat procesy**, **šetřit čas, síly, peníze**, **zvýšit kvalitu** a **zlepšovat produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
 
-<style>
-:root {
-  --bg: #ffffff;
-  --text: #111;
-  --card: #f5f5f5;
-  --primary: #007BFF;
-}
+Specializujeme se na **automatizaci**, **optimalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
 
-body.dark {
-  --bg: #121212;
-  --text: #eee;
-  --card: #1e1e1e;
-  --primary: #4da3ff;
-}
 
-body {
-  font-family: sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  margin: auto;
-  padding: 1em;
-  max-width: 1000px;
-}
 
-#top-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+---
 
-h1 {
-  font-size: 1.6em;
-}
+## 🔎 Co nabízíme:
+- **Automatizace procesů** pro lepší efektivitu a nižší náklady.
+- **Digitalizace** pro moderní a ekologické řešení.
+- **Inovace** zaměřené na zrychlení a zjednodušení pracovních postupů.
 
-h2 {
-  font-size: 1.2em;
-  margin-bottom: 1em;
-}
+💬 **Udělejte první krok ke zlepšení své firmy ještě dnes!**
 
-#toggle-dark {
-  cursor: pointer;
-  padding: 0.5em 1em;
-  border: none;
-  background: var(--primary);
-  color: white;
-  border-radius: 6px;
-}
+## Kontaktujte nás 📞
 
-#cards-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 12px;
-}
+**Ing. Libor Kocián**
 
-.card {
-  background: var(--card);
-  padding: 1em;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: 0.2s;
-  font-weight: bold;
-  text-align: center;
-}
+🏠 **Adresa:** 696 13, Šardice 390
 
-.card:hover {
-  transform: translateY(-3px);
-  background: var(--primary);
-  color: white;
-}
-</style>
-</head>
+🆔 **IČO:** 24899399
 
-<body>
+📱 **Mobil:** 602 941 181
 
-<div id="top-bar">
-  <h1>🤖 Ing. Libor Kocián</h1>
-  <button id="toggle-dark">🌙</button>
-</div>
-
-<h2>💡 Automatizace • Digitalizace • Inovace</h2>
-
-<div id="cards-container">
-
-<div class="card" onclick="window.location.href='html/10_uvod.html'">
-  UVOD
-</div>
-
-<div class="card" onclick="window.location.href='html/20_automatizace.html'">
-  AUTOMATIZACE
-</div>
-
-</div>
-
-<script>
-const toggleBtn = document.getElementById('toggle-dark');
-
-toggleBtn.addEventListener('click', () => {
-  document.body.classList.toggle('dark');
-  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
-});
-
-if (localStorage.getItem('dark-mode') === 'true') {
-  document.body.classList.add('dark');
-}
-</script>
-
-</body>
-</html>
+📧 **Email:** [kocian.libor@seznam.cz](mailto:kocian.libor@seznam.cz)
