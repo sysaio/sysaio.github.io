@@ -4,7 +4,6 @@ Malým firmám a živnostníkům **optimalizujeme procesy**, **šetříme čas, 
 
 Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
 
-=======
 Pomáháme firmám **optimalizovat procesy**, **šetřit čas, síly, peníze**, **zvýšit kvalitu** a **zlepšovat produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
 
 Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
