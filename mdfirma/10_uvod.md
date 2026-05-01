@@ -1,6 +1,6 @@
 # 📢 Optimalizace procesů od analýzy po realizaci 🚀
 
-Pomáháme malým firmám **optimalizovat procesy**, **šetřit čas, síly, peníze**, **zvýšit kvalitu** a **zlepšovat produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
+Malým firmám **optimalizujeme procesy**, **šetříme čas, síly, peníze**, **zvyšujeme kvalitu** a **zlepšujeme produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
 
 Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
 
