@@ -1,7 +1,7 @@
 # 📢 Optimalizace procesů od analýzy po realizaci 🚀
 
 <<<<<<< HEAD
-Malým firmám **optimalizujeme procesy**, **šetříme čas, síly, peníze**, **zvyšujeme kvalitu** a **zlepšujeme produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
+Malým firmám a živnostníkům **optimalizujeme procesy**, **šetříme čas, síly, peníze**, **zvyšujeme kvalitu** a **zlepšujeme produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
 
 Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
 
