@@ -1,117 +1,104 @@
 # 🧪 Reference
 
-## 🤝 Začínáme novou značku. Ne nové zkušenosti.
+## 🤝 Nová značka, dlouholeté zkušenosti
 
-Tato značka vzniká jako nový samostatný projekt.
-Neznamená to ale, že začínáme od nuly.
+Tato značka vzniká jako nový samostatný projekt, ale stojí na více než **20 letech praxe v IT, elektrotechnice, automatizaci a řízení technologií**.
 
-Za projektem stojí více než **20+ let zkušeností v IT, elektrotechnice, automatizaci a řízení provozů**.
+Nezačínáme od nuly – jen stavíme věci novým způsobem.
 
 ---
 
-# ⚙️ Co je pro nás klíčové
+# ⚙️ Přístup k práci
 
-Neprodáváme technologie jako takové.
-Dodáváme **funkční řešení v reálném provozu**.
+Nezaměřujeme se na technologie samotné.
 
-Zaměřujeme se na:
+Zaměřujeme se na to, aby **fungovaly v reálném provozu a přinášely konkrétní výsledky**.
 
-- 🧠 automatizaci procesů
+Pracujeme v oblastech:
+
+- 🧠 automatizace procesů
 - ⚙️ embedded a řídicí systémy
 - 🌐 IoT a vzdálený monitoring
-- 🔌 měření a regulaci (MaR)
-- 📊 analýzu dat v provozu
-- 🔒 bezpečnost a spolehlivost systémů
+- 🔌 měření a regulace (MaR)
+- 📊 práce s provozními daty
+- 🔒 bezpečnost a spolehlivost
 
 ---
 
-# 🏢 Profesní zkušenosti
+# 🏢 Oblasti zkušeností
 
-## 💻 IT a systémová analýza
-
-Dlouhodobá praxe v oblasti:
-
-- návrhu a správy IT systémů
-- analýzy procesů a dat
-- projektového řízení
-- business analýzy
-- návrhu technických řešení
+## 💻 IT a analýza systémů
+- návrh a správa IT řešení
+- analýza procesů a dat
+- projektové řízení
+- business a systémová analýza
 
 ---
 
-## ⚙️ Embedded a technické systémy
-
-Zkušenosti z oblasti:
-
-- elektrotechniky a sdělovacích systémů
-- provozu a správy technologií
-- diagnostiky zařízení
-- komunikačních systémů
-- návrhu technických řešení v praxi
+## ⚙️ Technické a embedded systémy
+- návrh elektronických a řídicích systémů
+- provoz technologií
+- diagnostika a monitoring zařízení
+- komunikační a datové systémy
 
 ---
 
-## 🌍 Provoz v kritických systémech
-
-Praxe v prostředí, kde rozhoduje spolehlivost:
-
-- nepřetržité monitorovací systémy
-- situační přehled a reporting
-- práce s kritickými daty
-- mezinárodní provozní prostředí
+## 🌍 Provoz v kritických prostředích
+- nepřetržitý dohled nad systémy
+- práce s provozními daty v reálném čase
+- mezinárodní technické prostředí
+- vysoké nároky na spolehlivost
 
 ---
 
-## 🏭 Firemní a organizační prostředí
-
-Zkušenosti z:
-
-- IT nákupu a veřejných zakázek
-- hodnocení technologií a investic
+## 🏭 Firemní a provozní praxe
+- IT nákup a správa technologií
+- hodnocení investic a řešení
 - řízení požadavků a dodávek
-- práce s provozní ekonomikou
+- provozní a ekonomické rozhodování
 
 ---
 
-# 🧩 Co si z toho odnáší klient
+# 🧩 Co to znamená pro klienta
 
-Nejde jen o technické znalosti.
+Výsledkem není jen technické řešení.
 
-Jde o schopnost:
+Ale systém, který:
 
-- ⚙️ navrhnout funkční řešení
-- 💰 přemýšlet nad návratností
-- 🔧 zajistit provozní spolehlivost
-- 📈 zjednodušit reálnou práci lidí
-- 🧠 spojit techniku s byznysem
+- ⚙️ skutečně funguje v provozu
+- 💰 dává ekonomický smysl
+- 🔧 minimalizuje potřebu zásahů
+- 📈 zlepšuje přehled a rozhodování
+- 🧠 propojuje techniku a byznys
 
 ---
 
 # 🚀 Aktuální stav
 
-Nový projekt se teprve rozjíždí pod vlastní značkou.
+Projekt je v nové samostatné fázi.
 
 To znamená:
 
 - 🔹 první realizace vznikají právě nyní
-- 🔹 každý projekt dostává maximální péči
-- 🔹 stavíme dlouhodobé reference
-- 🔹 kvalita je důležitější než objem
+- 🔹 každý projekt má individuální přístup
+- 🔹 důraz je na kvalitu, ne objem
+- 🔹 budujeme dlouhodobé reference
 
 ---
 
-# 🤝 Proč spolupracovat právě teď
+# 🤝 Proč spolupracovat teď
 
 První klienti získávají:
 
-- individuální přístup
-- rychlou reakci
-- možnost ovlivnit řešení
+- přímou komunikaci bez prostředníků
+- flexibilní přístup k návrhu řešení
+- vysokou míru zapojení do návrhu
 - dlouhodobého technického partnera
 
 ---
 
-# 📞 Hledáte technické řešení, které opravdu funguje?
+# 📞 Hledáte funkční technické řešení?
 
 Ozvěte se.
-Navrhneme jednoduché, spolehlivé a udržitelné řešení pro váš provoz nebo domácnost.
+
+Navrhneme jednoduchý, spolehlivý a udržitelný systém pro váš provoz nebo domácnost.

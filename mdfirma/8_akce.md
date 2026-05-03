@@ -1,87 +1,111 @@
 # 🎯 Akční nabídka
 
-## 🧠 Vyberte si jednu akci pro zaměření vaší živnosti / firmy
-Abychom vám dokázali dodat maximální hodnotu, nabízíme několik typů vstupních akcí.
-👉 Na jedno IČO si prosím vyberte **pouze jednu akci**, kterou spolu rozjedeme jako první.
+## 🧠 Vyberte si jednu oblast, kde začneme
+
+Každá firma i domácnost má jiné priority.
+
+Proto nabízíme 4 vstupní směry spolupráce, které slouží jako první krok k automatizaci a optimalizaci provozu.
+
+👉 Na jedno IČO si prosím vyberte **jednu oblast**, na kterou se společně zaměříme.
 
 ---
 
-# 🚀 1) Pilot automatizace zdarma
-## 🧪 Otestujte reálný přínos bez rizika
+# ⚙️ 1) Automatizace procesů
 
-- Automatizace jednoho procesu / činnosti / zařízení
-- Sledujeme úsporu času nebo nákladů či zvýšení kvality
-- Do 30 dnů dostanete vyhodnocení
+## 🚀 Méně rutiny, více času na důležitou práci
 
-💡 Ideální pro firmy, které chtějí vidět konkrétní výsledky
+Zaměřujeme se na odstranění manuálních činností a zjednodušení opakovaných procesů.
 
----
+### Co řešíme:
+- administrativní rutiny
+- reporty a přehledy
+- notifikace a schvalování
+- jednoduché firemní workflow
 
-# 🧠 2) Diagnostika provozu zdarma
-## 💸 Odhalte skryté ztráty ve firmě
-
-- Analýza provozu, údržby a spotřeby
-- Identifikace neefektivních míst
-- Návrh úsporných opatření
-
-💡 Vhodné jako první krok před automatizací
+### Výsledek:
+- úspora času
+- méně chyb
+- vyšší efektivita práce
 
 ---
 
-# 🔧 3) Prediktivní monitoring 1 stroje
-## ⚙️ Zastavte poruchy dřív, než nastanou
+# 🧠 2) Diagnostika a optimalizace provozu
 
-- Monitoring vibrací / stavu zařízení / signálu / alarmu
-- Včasná detekce poruch
-- Zkušební provoz na 1 zařízení
+## 🔍 Zjistíme, kde vám unikají peníze a výkon
 
-💡 Ideální pro výrobní a servisní firmy
+Analyzujeme provoz, procesy a využití technologií.
 
----
+### Co řešíme:
+- neefektivní procesy
+- zbytečné náklady
+- slabá místa provozu
+- návrhy optimalizace
 
-# 🌐 4) Vzdálená správa na zkoušku
-## 📡 Ušetřete první výjezd technika
-
-- Instalace vzdáleného monitoringu
-- Ukázka dat v reálném čase
-- Test snížení servisních zásahů
-
-💡 Pro servisní a technologické firmy
+### Výsledek:
+- jasný přehled stavu
+- konkrétní doporučení
+- prioritizace úprav
 
 ---
 
-# ⏱️ 5) Automatizace jedné rutiny zdarma
-## 🧾 Méně papíru, více práce
+# ⚙️ 3) Prediktivní monitoring technologií
 
-- Automatizace jednoduchého procesu
-  - faktury
-  - reporty
-  - notifikace
-- Měření úspory času / kvality
+## 🛡️ Zastavíme poruchy dřív, než nastanou
 
-💡 Pro kanceláře a živnostníky
+Sledujeme stav zařízení a upozorňujeme na problémové změny.
+
+### Co řešíme:
+- monitoring strojů
+- vibrace / stav / chování zařízení
+- včasná detekce poruch
+- kritická upozornění
+
+### Výsledek:
+- méně výpadků
+- nižší servisní náklady
+- delší životnost zařízení
 
 ---
 
-# 🏭 6) Energetický mini-audit
-## 🔋 Zjistěte, kde unikají peníze
+# 🌐 4) Provozní monitoring a vzdálený dohled
 
-- Základní analýza spotřeby
-- Identifikace hlavních odběrů
-- Návrh optimalizace
+## 📡 Přehled o technologiích odkudkoliv
 
-💡 Pro provozy s vyšší spotřebou energie
+Získáte kontrolu nad zařízeními bez nutnosti fyzické přítomnosti.
+
+### Co řešíme:
+- vzdálený monitoring zařízení
+- energetická data a spotřeba
+- stav provozu v reálném čase
+- servisní přehled
+
+### Výsledek:
+- méně výjezdů techniků
+- rychlejší reakce
+- lepší přehled o provozu
 
 ---
 
 # 📌 Jak to funguje
-1. Vyberete si **jednu akci**
-2. Krátce si projdeme váš provoz
-3. Nasadíme řešení
-4. Do 30 dnů vidíte první výsledky
+
+1. Vyberete jednu oblast
+2. Krátce projdeme váš provoz
+3. Nasadíme pilotní řešení
+4. Vyhodnotíme reálný přínos
 
 ---
 
-# 🤝 Proč jen jedna akce?
-Abychom se soustředili na reálný přínos, ne na „zkoušení všeho“.
-👉 Každá firma dostane maximální pozornost na jednu oblast, kde to dává největší smysl.
+# 🤝 Proč jen jedna oblast
+
+Abychom se mohli soustředit na konkrétní problém a dodat měřitelný výsledek.
+
+👉 Cílem není dělat „všechno trochu“, ale jednu věc opravdu dobře.
+
+---
+
+# 🚀 Co získáte
+
+- reálná data z provozu
+- konkrétní výsledky
+- návrh dalšího rozvoje
+- rozhodnutí založené na faktech

@@ -1,133 +1,112 @@
- # 💰 Ceník / Jak naceňujeme
+# 💰 Ceník / Jak naceňujeme
 
-## 🤝 Férově, transparentně a podle reálného rozsahu
+## 🤝 Každý projekt je jiný. Cena tomu odpovídá.
 
-Každý projekt je jiný.
-Někdo potřebuje jednoduché měření spotřeby, jiný kompletní automatizaci provozu.
+Navrhujeme řešení podle reálné potřeby, ne podle tabulky „balíčků“.
 
-Proto netvoříme univerzální „ceník z katalogu“, ale navrhujeme řešení podle toho, co vám skutečně přinese hodnotu.
+Cílem není prodat technologii, ale dodat funkční výsledek.
 
-👉 Platíte za výsledek, ne za zbytečnosti.
-
----
-
-# 🧩 Jak naceňujeme
-
-Cena se obvykle skládá z těchto částí:
-
-- 🔍 analýza potřeb a návrh řešení
-- ⚙️ hardware / zařízení / rozvaděč
-- 💻 software a logika řízení
-- 🔌 montáž a uvedení do provozu
-- 📱 napojení na mobil / vzdálený dohled
-- 🛠️ servis a budoucí rozšíření
+👉 Platíte za přínos, ne za zbytečné části.
 
 ---
 
-# 📦 Orientační balíčky
+# 🧩 Jak tvoříme cenu
 
-## 🏡 Start – od 9 900 Kč
+Cena se odvíjí od rozsahu řešení:
 
-Vhodné pro menší instalace:
+- 🔍 analýza a návrh řešení
+- ⚙️ hardware a zařízení
+- 💻 software a řízení
+- 🔌 instalace a uvedení do provozu
+- 📱 vzdálený dohled / aplikace
+- 🛠️ servis a rozšíření
+
+---
+
+# 📦 Orientační rozsah řešení
+
+## 🏡 Menší instalace – od 9 900 Kč
 
 - měření spotřeby
-- jednoduché čidlo
+- jednoduché senzory
 - základní automatizace
 - notifikace do mobilu
 
 ---
 
-## ⚡ Smart Home – od 24 900 Kč
-
-Pro domácnosti a menší objekty:
+## ⚡ Domácnosti – od 24 900 Kč
 
 - řízení vytápění
 - senzory vody / plynu
-- vzdálené ovládání
 - přehled spotřeby
+- vzdálené ovládání
 
 ---
 
-## 🏭 Business – od 39 900 Kč
-
-Pro firmy a provozovny:
+## 🏭 Firmy – od 39 900 Kč
 
 - monitoring technologií
-- energetický management
+- energetický dohled
 - automatizace procesů
-- vzdálená správa zařízení
+- vzdálená správa
 
 ---
 
-## 🚀 Individuální projekt – na míru
+## 🚀 Individuální řešení – na míru
 
-Pro složitější realizace:
+Pro složité nebo specifické projekty:
 
-- výrobní provozy
+- výrobní technologie
 - vinařství
 - více objektů
-- zakázkové embedded řešení
-- speciální integrace
+- zakázkový embedded systém
+- integrace různých technologií
 
-👉 Cena dle zadání a rozsahu.
-
----
-
-# 🔍 Audit zdarma
-
-Než začneme cokoliv navrhovat, můžeme společně projít váš provoz nebo domácnost.
-
-## Zjistíme například:
-
-- kde zbytečně unikají peníze
-- co jde automatizovat
-- co má rychlou návratnost
-- co se vyplatí řešit později
-
-🎯 První konzultace je zdarma.
+👉 cena dle rozsahu a zadání
 
 ---
 
-# 📈 Návratnost investice
+# 🔍 Audit / návrh řešení zdarma
 
-Technologie by měla vydělávat, ne jen stát peníze.
+Než cokoliv navrhujeme, projdeme váš provoz nebo domácnost.
 
-Proto u návrhů sledujeme:
+Získáte:
+
+- přehled slabých míst
+- možnosti automatizace
+- odhad návratnosti
+- prioritizaci řešení
+
+👉 vstupní konzultace je zdarma
+
+---
+
+# 📈 Návratnost
+
+Většina projektů má smysl jen tehdy, pokud se vrací v čase.
+
+Sledujeme:
 
 - úsporu energií
-- méně servisních výjezdů
+- méně servisních zásahů
 - méně poruch
 - úsporu času
-- vyšší komfort
-- delší životnost zařízení
-
-V mnoha případech se investice vrací v horizontu **měsíců až několika let** podle typu řešení.
+- vyšší efektivitu provozu
 
 ---
 
-# ❓ Nejčastější otázka: Proč není pevný ceník?
+# 🛡️ Jak pracujeme
 
-Protože rozdíl je například mezi:
-
-- jedním senzorem v rodinném domě
-- řízením topení v penzionu
-- monitoringem výrobní linky
-- zakázkovým embedded systémem
-
-Každý projekt má jiné potřeby.
-
----
-
-# 🛡️ Na čem si zakládáme
-
-- férová cenová nabídka
-- bez skrytých poplatků
-- jasný rozsah prací
-- možnost etapizace projektu
+- jasně definovaný rozsah
+- žádné skryté položky
+- možnost rozdělení do etap
 - řešení podle rozpočtu
+- férový návrh bez nadhodnocení
 
 ---
 
-# 📞 Chcete rychlý odhad ceny?
+# 📞 Chcete orientační cenu?
 
-Napište nám na e-mail základní zadání projektu a připravíme orientační návrh řešení zdarma.
+Pošlete stručný popis problému.
+
+Navrhneme možné řešení a orientační rozpočet zdarma.

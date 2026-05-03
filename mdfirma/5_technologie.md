@@ -1,163 +1,156 @@
 # 📚 Technologie
 
-## ⚙️ Moderní technologie s důrazem na spolehlivost
+## ⚙️ Spolehlivé systémy pro reálný provoz
 
-Nevytváříme jen „chytré krabičky“.
-Navrhujeme **reálná technická řešení**, která pomáhají šetřit čas, energii a náklady – a fungují dlouhodobě bez zbytečných komplikací.
+Nevyrábíme univerzální „chytré krabičky“.
 
-Naše systémy stavíme s důrazem na:
+Navrhujeme **technická řešení na míru**, která mají fungovat dlouhodobě, stabilně a bez zbytečné údržby.
 
-- ⚡ rychlost reakce
-- 🛡️ vysokou spolehlivost
-- 🔒 bezpečnost dat
-- 🔧 jednoduchý servis
-- 📈 možnost budoucího rozšíření
+Důraz klademe na:
+
+- ⚡ rychlou reakci systému
+- 🛡️ spolehlivý provoz 24/7
+- 🔒 bezpečnost a kontrolu dat
+- 🔧 servisovatelnost a rozšiřitelnost
+- 📈 dlouhodobou udržitelnost
 
 ---
 
 # 🧩 Embedded systémy
 
-Vyvíjíme **jednoúčelové vestavěné počítače (embedded systémy)** navržené přesně pro konkrétní úkol.
+Vyvíjíme specializované **vestavěné (embedded) systémy** určené pro konkrétní úlohy v provozu.
 
-Použití například pro:
+## Použití:
 
-- měření a regulaci (MaR)
-- monitoring technologií
-- řízení spotřeby energií
-- chytré rozvaděče
+- měření a regulace (MaR)
+- řízení technologií
+- monitoring zařízení
+- energetické systémy
 - sběr dat z čidel
-- automatizaci provozu
+- automatizace provozů
 
-## ✅ Výhody
+## Charakteristika:
 
-- nízká spotřeba energie
-- stabilní provoz 24/7
+- nízká spotřeba
+- stabilní běh 24/7
 - dlouhá životnost
-- rychlá odezva
-- bez zbytečného softwarového balastu
+- minimální softwarová složitost
+- vysoká spolehlivost
 
 ---
 
-# ⚡ Event Driven Algorithm
+# ⚡ Event-driven řízení
 
-Naše logika řízení je postavená na **stavových automatech** a principu **událostního řízení (Event Driven Algorithm)**.
+Systémy navrhujeme jako **reaktivní (event-driven)** – reagují na události v reálném čase.
 
-To znamená, že systém reaguje okamžitě na změny:
+## Typické události:
 
-- změna teploty
-- pohyb
-- alarm
+- změna stavu senzoru
+- alarmová situace
+- provozní odchylka
 - výpadek napájení
-- stav stroje
-- data ze senzoru
+- změna měřených hodnot
 
-## 🎯 Výsledek
+## Přínos:
 
-- extrémně rychlá reakce
-- minimální zatížení systému
-- méně chyb
-- vysoká stabilita
-- provoz i mnoho let bez restartů
+- okamžitá reakce
+- stabilní chování systému
+- nízké zatížení
+- minimum chybových stavů
+- dlouhodobý bezproblémový provoz
 
 ---
 
 # 🌐 IoT a LoRaWAN
 
-Využíváme moderní síťové technologie pro vzdálený monitoring a sběr dat.
+Pro vzdálený sběr dat a monitoring využíváme moderní IoT přístup.
 
-## 📡 LoRaWAN je ideální pro:
+## 📡 LoRaWAN je vhodný pro:
 
-- velké areály
-- vinařství
-- sklady
-- pole a hospodářství
-- měření hladin vody
-- vzdálená čidla bez elektřiny
+- rozsáhlé areály
+- zemědělství a vinařství
+- technická čidla v terénu
+- monitoring bez infrastruktury
+- bateriová zařízení
 
-## ✅ Výhody
+## Výhody:
 
 - dlouhý dosah
-- nízká spotřeba baterie
+- nízká spotřeba energie
 - bezpečný přenos dat
-- minimální provozní náklady
-- monitoring v reálném čase
+- nízké provozní náklady
+- provoz v reálném čase
 
 ---
 
-# 🏭 MaR – Měření a regulace
+# 🏭 Měření a regulace (MaR)
 
-Navrhujeme chytré systémy **měření a regulace (MaR)** pro domácnosti i firmy.
+Navrhujeme systémy pro řízení technologií v budovách i provozech.
 
-## Řídíme například:
+## Typické oblasti:
 
-- vytápění
-- chlazení
-- ventilaci
-- čerpání vody
-- technologie výroby
+- vytápění a chlazení
+- ventilace
+- čerpání a hospodaření s vodou
 - energetické toky
-- závlahu
+- technologické celky
+- závlaha a zemědělství
 
-## Přínos
+## Výsledek:
 
 - nižší spotřeba energií
-- vyšší komfort
-- automatický provoz
-- méně poruch
-- přesná data pro rozhodování
+- stabilní provoz
+- automatické řízení
+- lepší přehled o systému
+- méně poruch a zásahů
 
 ---
 
-# 🔒 Bezpečnost dat
+# 🔒 Bezpečnost a data
 
-Data mají hodnotu. Proto řešíme bezpečnost od základu.
+Bezpečnost není doplněk, ale součást návrhu.
 
-## Používáme:
+## Základní principy:
 
-- šifrovanou komunikaci
-- oddělené přístupy
-- zabezpečené vzdálené připojení
-- lokální ukládání dat dle potřeby
-- omezení závislosti na externích cloudech
+- šifrovaná komunikace
+- oddělení přístupů
+- zabezpečený vzdálený přístup
+- lokální zpracování dat tam, kde je to vhodné
+- minimalizace závislosti na externích službách
 
-## 🎯 Výsledek
+## Výsledek:
 
-Vaše data zůstávají pod kontrolou.
+Vaše data zůstávají pod vaší kontrolou.
 
 ---
 
 # 🔧 Dlouhá životnost systémů
 
-Nejsme fanoušci technologií „na dva roky“.
+Systémy navrhujeme s ohledem na dlouhodobý provoz, ne krátkodobý cyklus.
 
-Naše řešení navrhujeme tak, aby:
+## Znamená to:
 
-- fungovala dlouhodobě
-- šla servisovat
-- šla rozšiřovat
-- nebyla závislá na jedné aplikaci
-- zvládla náročný provoz
-
-## 💡 Cíl
-
-Investice, která dává smysl i za několik let.
+- stabilní provoz v čase
+- možnost servisovat a upravovat
+- rozšiřitelnost bez redesignu
+- nezávislost na jedné aplikaci
+- odolnost v provozu
 
 ---
 
-# 🚀 Technologie musí vydělávat
+# 🚀 Technologie jako nástroj úspory
 
-Technologie sama o sobě nestačí.
-Musí přinášet reálný výsledek:
+Technologie má smysl jen tehdy, když přináší konkrétní výsledek:
 
-- úsporu času
-- méně rutiny
-- nižší náklady
-- méně poruch
-- lepší přehled o provozu
-- konkurenční výhodu
+- ⏱️ úsporu času
+- 💰 snížení nákladů
+- 🔧 méně manuální práce
+- 🧠 lepší rozhodování
+- 📊 přehled o provozu
+- 🛡️ vyšší spolehlivost
 
 ---
 
-# 🤝 Chcete zjistit, co by šlo automatizovat u vás?
+# 🤝 Chcete zjistit možnosti automatizace?
 
-Ozvěte se nám a navrhneme řešení na míru.
+Ozvěte se – navrhneme jednoduché a funkční řešení pro váš provoz.
