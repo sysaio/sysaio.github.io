@@ -1,28 +1,45 @@
-# 📢 Zjednodušujeme život a podnikání pomocí technologií z velkého průmyslu. 🚀
+# 🚀 Zjednodušujeme život a podnikání pomocí moderních technologií
 
-Malým firmám a živnostníkům **optimalizujeme procesy**, **šetříme čas, síly, peníze**, **zvyšujeme kvalitu** a **zlepšujeme produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
+Pomáháme malým firmám a živnostníkům **zefektivnit provoz, snížit náklady a ušetřit čas** pomocí automatizace, digitalizace a chytrých technologických řešení.
 
-Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
-
-Pomáháme firmám **optimalizovat procesy**, **šetřit čas, síly, peníze**, **zvýšit kvalitu** a **zlepšovat produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
-
-Specializujeme se na **automatizaci**, **digitalizaci** a **inovace**, které přináší efektivitu do vašeho podnikání. 🔧🤖
+Naše řešení vycházejí z praxe průmyslové automatizace a přinášejí do menších provozů spolehlivost, přehled a jednoduchost.
 
 ---
 
-## 🔎 Co nabízíme:
-- **Automatizace procesů** pro lepší efektivitu a nižší náklady.
-- **Digitalizace** pro moderní a ekologické řešení.
-- **Inovace** zaměřené na zrychlení a zjednodušení pracovních postupů.
+# ⚙️ Co děláme
 
-💬 **Udělejte první krok ke zlepšení své firmy ještě dnes!**
+## 🔧 Automatizace procesů
+Zbavujeme firmy rutinní práce a manuálních činností.
 
-## Kontaktujte nás 📞
+## 💻 Digitalizace
+Převádíme papírové a ruční procesy do přehledných digitálních systémů.
 
-**Ing. Libor Kocián**
-=======
-🌍 **Ing. Libor Kocián**
-🏠 **Adresa:** 696 13, Šardice 390
-🆔 **IČO:** 24899399
-📱 **Mobil:** 602 941 181
-📧 **Email:** [kocian.libor@seznam.cz](mailto:kocian.libor@seznam.cz)
+## 💡 Chytrá řešení a inovace
+Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
+
+---
+
+# 🎯 Co vám to přinese
+
+- ⏱️ úsporu času
+- 💰 snížení provozních nákladů
+- 📈 vyšší produktivitu
+- 🧠 méně rutinní práce
+- 🔍 lepší přehled o provozu
+
+---
+
+# 📞 Kontakt
+
+## Ing. Libor Kocián
+
+- 🏠 Adresa: 696 13 Šardice 390
+- 🆔 IČO: 24899399
+- 📱 Telefon: 602 941 181
+- 📧 Email: kocian.libor@seznam.cz
+
+---
+
+# 🤝 Chcete zjistit, co lze zautomatizovat u vás?
+
+Ozvěte se a navrhneme jednoduché řešení přímo pro váš provoz.
