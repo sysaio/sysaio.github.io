@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>uvod-kontakt</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>🚀 Zjednodušujeme život a podnikání pomocí moderních technologií</h1>
+<p>Pomáháme malým firmám a živnostníkům <strong>zefektivnit provoz, snížit náklady a ušetřit čas</strong> pomocí automatizace, digitalizace a chytrých technologických řešení.</p>
+<p>Naše řešení vycházejí z praxe průmyslové automatizace a přinášejí do menších provozů spolehlivost, přehled a jednoduchost.</p>
+<hr />
+<h1>⚙️ Co děláme</h1>
+<h2>🔧 Automatizace procesů</h2>
+<p>Zbavujeme firmy rutinní práce a manuálních činností.</p>
+<h2>💻 Digitalizace</h2>
+<p>Převádíme papírové a ruční procesy do přehledných digitálních systémů.</p>
+<h2>💡 Chytrá řešení a inovace</h2>
+<p>Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.</p>
+<hr />
+<h1>🎯 Co vám to přinese</h1>
+<ul>
+<li>⏱️ úsporu času</li>
+<li>💰 snížení provozních nákladů</li>
+<li>📈 vyšší produktivitu</li>
+<li>🧠 méně rutinní práce</li>
+<li>🔍 lepší přehled o provozu</li>
+</ul>
+<hr />
+<h1>📞 Kontakt</h1>
+<h2>Ing. Libor Kocián</h2>
+<ul>
+<li>🏠 Adresa: 696 13 Šardice 390</li>
+<li>🆔 IČO: 24899399</li>
+<li>📱 Telefon: 602 941 181</li>
+<li>📧 Email: kocian.libor@seznam.cz</li>
+</ul>
+<hr />
+<h1>🤝 Chcete zjistit, co lze zautomatizovat u vás?</h1>
+<p>Ozvěte se a navrhneme jednoduché řešení přímo pro váš provoz.</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
