@@ -31,12 +31,12 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 # 📞 Kontakt
 
-## Ing. Libor Kocián
+# 🌍 Ing. Libor Kocián ⚙️
 
-- 🏠 Adresa: 696 13 Šardice 390
-- 🆔 IČO: 24899399
-- 📱 Telefon: 602 941 181
-- 📧 Email: kocian.libor@seznam.cz
+🏠 **Adresa:** 696 13 Šardice 390
+🆔 **IČO:** 24899399
+📱 **Telefon:** 602 941 181
+📧 **Email:** kocian.libor@seznam.cz
 
 ---
 
