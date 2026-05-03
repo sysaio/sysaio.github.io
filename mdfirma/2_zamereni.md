@@ -1,36 +1,89 @@
-# ⚙️ Zaměření (Technologie a vize)
+# ⚙️ Technologie a přístup
 
-## 🧩 Co děláme
-- Vývoj jednoúčelových vestavěných (embedded) počítačů
-- Chytré rozvaděče pro měření a regulaci (MaR)
+## 🧩 Co vyvíjíme
 
----
+Navrhujeme a stavíme specializovaná technická řešení pro automatizaci a monitoring:
 
-## 🧠 Naše logika
-- Stavíme na **stavových automatech (Event Driven Algorithm)**
-- Díky tomu jsou naše systémy:
-  - ⚡ extrémně rychlé
-  - 🛡️ vysoce spolehlivé
-  - 🧰 schopné fungovat roky bez chyb a restartů
+- 🔌 embedded (vestavěné) systémy
+- 🏭 chytré rozvaděče pro měření a regulaci (MaR)
+- 📡 IoT zařízení pro sběr a přenos dat
 
 ---
 
-## 🌐 IoT & sítě
-- Využíváme moderní komunikační technologie
-- Např. **LoRaWAN** pro:
-  - 📡 bezpečný přenos dat
-  - 📊 monitoring v reálném čase
-  - 🔋 nízkou spotřebu energie
+# 🧠 Jak přemýšlíme
+
+Naše systémy nejsou univerzální „software na všechno“.
+
+Stavíme je jako **spolehlivé řídicí systémy**, které reagují na události v reálném čase.
+
+## ⚡ Event Driven přístup
+
+Systém reaguje na to, co se děje:
+
+- změna stavu
+- měření ze senzoru
+- alarm
+- provozní událost
+
+## Výsledek:
+
+- 🛡️ vysoká stabilita
+- ⚡ rychlá reakce
+- 🔧 minimum chybových stavů
+- 📆 dlouhodobý bezúdržbový provoz
 
 ---
 
-## 🤝 Komunitní model
-- Fungujeme na principu: **„živnostníci pro živnostníky“**
-- Sdílíme:
-  - 🧠 algoritmy
-  - ⚙️ technická řešení
-  - 📦 praktické know-how
+# 🌐 IoT a komunikace
 
-- Cíl:
-  - umožnit využití řešení i dalším odborníkům v různých regionech
-  - otevřený přístup přes naši **wiki 📚**
+Pro vzdálený monitoring a řízení využíváme moderní síťové technologie.
+
+## 📡 LoRaWAN
+
+Ideální pro:
+
+- velké areály
+- zemědělství a vinařství
+- průmyslové provozy
+- senzory bez stálého napájení
+
+## Přínosy:
+
+- 🔋 nízká spotřeba energie
+- 📊 přenos dat v reálném čase
+- 📡 dlouhý dosah bez infrastruktury
+- 🔒 bezpečná komunikace
+
+---
+
+# 🧠 Přístup k návrhu řešení
+
+Neprodáváme univerzální krabičky.
+
+Každé řešení:
+
+- je navržené pro konkrétní provoz
+- odpovídá reálnému použití
+- je dlouhodobě udržitelné
+- lze rozšiřovat v čase
+
+---
+
+# 🤝 Spolupráce a otevřenost
+
+Sdílíme know-how a zkušenosti tak, aby bylo možné:
+
+- rozvíjet řešení v různých provozech
+- spolupracovat s dalšími techniky
+- budovat ekosystém praktických řešení
+
+📚 Technická dokumentace a postupy jsou dostupné v naší wiki.
+
+---
+
+# 🚀 Co z toho má zákazník
+
+- spolehlivý provoz bez častých zásahů
+- přehled o tom, co se v systému děje
+- nižší provozní náklady
+- možnost růstu systému v čase
