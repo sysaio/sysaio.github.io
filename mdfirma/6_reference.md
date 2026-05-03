@@ -1,207 +1,117 @@
-# 🧪 Reference & Profesní zkušenosti
+# 🧪 Reference
 
-## 🤝 Nová značka. Zkušenosti budované desítky let.
+## 🤝 Začínáme novou značku. Ne nové zkušenosti.
 
-Na vlastní noze začínáme novou etapu.
-Nevstupujeme však na trh bez zkušeností.
+Tato značka vzniká jako nový samostatný projekt.
+Neznamená to ale, že začínáme od nuly.
 
-Za projektem stojí více než **30 let praxe** v oblastech:
-
-- ⚙️ elektrotechnika
-- 💻 IT infrastruktura
-- 🔒 bezpečnost systémů
-- 📊 analýza dat a procesů
-- 🧠 podniková informatika
-- 🌐 mezinárodní provozní prostředí
-- 🛠️ technická diagnostika a správa technologií
+Za projektem stojí více než **20+ let zkušeností v IT, elektrotechnice, automatizaci a řízení provozů**.
 
 ---
 
-# 👤 Kdo za projektem stojí
+# ⚙️ Co je pro nás klíčové
 
-## Libor Kocián
+Neprodáváme technologie jako takové.
+Dodáváme **funkční řešení v reálném provozu**.
 
-Prakticky orientovaný odborník, který propojuje:
+Zaměřujeme se na:
 
-- techniku
-- informační technologie
-- automatizaci
-- analytické myšlení
-- obchodní uvažování
-- schopnost dotahovat věci do konce
-
-## 🎯 Přístup
-
-Technologie nemá komplikovat život.
-Má fungovat spolehlivě, jednoduše a přinášet výsledek.
+- 🧠 automatizaci procesů
+- ⚙️ embedded a řídicí systémy
+- 🌐 IoT a vzdálený monitoring
+- 🔌 měření a regulaci (MaR)
+- 📊 analýzu dat v provozu
+- 🔒 bezpečnost a spolehlivost systémů
 
 ---
 
 # 🏢 Profesní zkušenosti
 
-## ⚙️ Analytik – projektant | DELINFO spol. s r.o.
+## 💻 IT a systémová analýza
 
-### Současnost
+Dlouhodobá praxe v oblasti:
 
-Zaměření na:
-
-- business analýzu
-- návrh řešení
-- projektovou podporu
-- informační technologie
-- technickou komunikaci
-- řešení problémů v praxi
+- návrhu a správy IT systémů
+- analýzy procesů a dat
+- projektového řízení
+- business analýzy
+- návrhu technických řešení
 
 ---
 
-## 💻 Nákupčí IT | Armáda České republiky
+## ⚙️ Embedded a technické systémy
 
-Zodpovědnost za:
+Zkušenosti z oblasti:
 
-- veřejné zakázky IT/ICT
-- pořizování technologií a služeb
-- ekonomické vyhodnocení nabídek
-- finanční kontrolu
-- podporu zadavatelů
-
-## Přínos
-
-Schopnost hodnotit technologie nejen technicky, ale i ekonomicky.
+- elektrotechniky a sdělovacích systémů
+- provozu a správy technologií
+- diagnostiky zařízení
+- komunikačních systémů
+- návrhu technických řešení v praxi
 
 ---
 
-## 🌍 Watchkeeper | NATO SHAPE (Belgie)
+## 🌍 Provoz v kritických systémech
 
-Práce v mezinárodním nepřetržitém režimu 24/7.
+Praxe v prostředí, kde rozhoduje spolehlivost:
 
-Zaměření:
-
-- dohled nad systémy včasného varování
-- situační přehled v reálném čase
-- incident reporting
-- testování systémů
-- kritická komunikace pod tlakem
-
-## Přínos
-
-Disciplína, přesnost, spolehlivost a práce s kritickými systémy.
+- nepřetržité monitorovací systémy
+- situační přehled a reporting
+- práce s kritickými daty
+- mezinárodní provozní prostředí
 
 ---
 
-## ✈️ Tactical Evaluation | NATO Air Force
+## 🏭 Firemní a organizační prostředí
 
-- hodnocení taktických procesů
-- práce s daty
-- analytika provozu
-- mezinárodní spolupráce
+Zkušenosti z:
 
----
-
-## 🌐 ISAF Kabul
-
-### Common Operational Picture Manager
-
-- nepřetržitý reporting
-- práce s provozními daty
-- vizualizace situace
-- řízení informací v reálném čase
+- IT nákupu a veřejných zakázek
+- hodnocení technologií a investic
+- řízení požadavků a dodávek
+- práce s provozní ekonomikou
 
 ---
 
-## 🛠️ Technik IT | Armáda České republiky
+# 🧩 Co si z toho odnáší klient
 
-Více než 6 let praxe v:
+Nejde jen o technické znalosti.
 
-- správě ICT
-- bezpečnostním managementu systémů
-- provozu komunikačních technologií
-- podpoře uživatelů
-- rozvoji infrastruktury
+Jde o schopnost:
 
----
-
-## 📡 Telekomunikační technika
-
-Praxe v oblastech:
-
-- údržba sdělovací techniky
-- speciální komunikační systémy
-- serverová správa
-- počítačové sítě
-- diagnostika zařízení
+- ⚙️ navrhnout funkční řešení
+- 💰 přemýšlet nad návratností
+- 🔧 zajistit provozní spolehlivost
+- 📈 zjednodušit reálnou práci lidí
+- 🧠 spojit techniku s byznysem
 
 ---
 
-## ⚡ Elektrotechnická výroba
+# 🚀 Aktuální stav
 
-Začátky v oboru:
+Nový projekt se teprve rozjíždí pod vlastní značkou.
 
-- rozvodná zařízení
-- elektromotory
-- transformátory
-- elektromechanika
+To znamená:
 
----
-
-# 🎓 Vzdělání
-
-## 🏫 Vysoká škola ekonomická v Praze
-
-### Ing. – Aplikovaná informatika
-
-- podniková informatika
-- procesní řízení
-- IS/ICT
-- projektové řízení
-- audit systémů
-- analýza dat
-
-### Ing. – Komunikace, interpretace, multimédia
-
-- firemní komunikace
-- dokumentace
-- marketing
-- prezentace řešení
+- 🔹 první realizace vznikají právě nyní
+- 🔹 každý projekt dostává maximální péči
+- 🔹 stavíme dlouhodobé reference
+- 🔹 kvalita je důležitější než objem
 
 ---
 
-## 🏫 Bc. – Management a marketing zahraničního obchodu
+# 🤝 Proč spolupracovat právě teď
 
-- obchodní myšlení
-- marketing
-- ekonomika
-- rozvoj firem
+První klienti získávají:
 
----
-
-# 🧩 Co to znamená pro klienta
-
-Neřešíme jen technickou stránku.
-
-Umíme propojit:
-
-- ⚙️ technické řešení
-- 💰 ekonomickou návratnost
-- 🧠 jednoduché používání
-- 🔒 bezpečnost
-- 📈 dlouhodobou udržitelnost
+- individuální přístup
+- rychlou reakci
+- možnost ovlivnit řešení
+- dlouhodobého technického partnera
 
 ---
 
-# 🚀 Proč spolupracovat právě s námi
-
-## Protože získáte partnera, který rozumí:
-
-- technologiím
-- provozu
-- lidem
-- rozhodování pod tlakem
-- nákladům
-- praktické realizaci
-
----
-
-# 📞 Hledáte zkušenosti bez korporátní složitosti?
+# 📞 Hledáte technické řešení, které opravdu funguje?
 
 Ozvěte se.
-Navrhneme funkční řešení na míru – jednoduše a profesionálně.
+Navrhneme jednoduché, spolehlivé a udržitelné řešení pro váš provoz nebo domácnost.
