@@ -1,3 +1,10 @@
+# Zaměření (Technologie a vize)
+
+- Co děláme: Vývoj jednoúčelových vestavěných (embedded) počítačů a chytrých rozvaděčů pro měření a regulaci (MaR).
+- Naše logika: Stavíme na stavových automatech (Event Driven Algorithm). To zaručuje, že naše systémy jsou extrémně rychlé, spolehlivé a pracují léta bez chyb.
+- IoT & Sítě: Využíváme moderní sítě (např. LoRaWAN) pro bezpečný přenos dat a monitoring v reálném čase.
+- Komunitní model: Fungujeme na principu „živnostníci pro živnostníky“. Své algoritmy a řešení sdílíme otevřeně, aby je mohli využít i další odborníci v jiných regionech - viz naše wiki.
+
 ## 🔍 Analýza a Automatizace Procesů 🔧
 
 **Analýza a automatizace procesů** je klíčová pro **optimalizaci** vašich pracovních postupů a dosažení lepší efektivity. 📊

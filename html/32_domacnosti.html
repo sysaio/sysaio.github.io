@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>domacnosti</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>🏡 Pro domácnosti</h1>
+<h2>⚡ Optimalizace energie</h2>
+<p>Inteligentní řízení vytápění a spotřebičů pro maximální úspory.</p>
+<h2>🛡️ Bezpečí a klid</h2>
+<p>Senzory, které vás včas varují před únikem vody, plynu nebo jinou havárií.</p>
+<h2>💡 Příklady realizací</h2>
+<h3>🍷 Smart vinařství</h3>
+<p>Automatické hlídání teploty kvašení a stavu hladin v tancích (ideální pro šardickou oblast).</p>
+<h3>🔋 Energetický management</h3>
+<p>Přehled o spotřebě v mobilu a automatické spínání dle přebytků z FVE.</p>
+<h3>🌾 Chytré hospodářství</h3>
+<p>Sledování zásob vody nebo krmiva v silech s upozorněním na mobil.</p>
+<h3>💧 Závlaha 2.0</h3>
+<p>Inteligentní zalévání zahrady podle vlhkosti půdy a předpovědi počasí.</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>

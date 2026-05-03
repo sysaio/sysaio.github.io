@@ -1,4 +1,4 @@
-# 📢 Optimalizace procesů od analýzy po realizaci 🚀
+# 📢 Zjednodušujeme život a podnikání pomocí technologií z velkého průmyslu. 🚀
 
 Malým firmám a živnostníkům **optimalizujeme procesy**, **šetříme čas, síly, peníze**, **zvyšujeme kvalitu** a **zlepšujeme produktivitu** prostřednictvím moderních technologických řešení. 🌐💡
 
