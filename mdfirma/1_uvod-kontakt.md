@@ -1,23 +1,30 @@
-# 🚀 Zjednodušujeme podnikání pomocí moderních technologií
+# 🚀 Zjednodušujeme život a podnikání pomocí moderních technologií
 
-Pomáháme malým firmám a živnostníkům **zefektivnit provoz, snížit náklady a ušetřit čas** pomocí automatizace a digitalizace.
+Firmy, živnostníci a chytré domácnosti: **zefektivnit provoz, snížit náklady a ušetřit čas** pomocí automatizace, digitalizace a chytrých technologických řešení.
+
 
 ---
 
 # ⚙️ Co děláme
 
-- 🔧 automatizace procesů
-- 💻 digitalizace provozu
-- 💡 návrh chytrých technických řešení
+## 🔧 Automatizace procesů
+Zbavujeme firmy rutinní práce a manuálních činností.
+
+## 💻 Digitalizace
+Převádíme papírové a ruční procesy do přehledných digitálních systémů.
+
+## 💡 Chytrá řešení a inovace
+Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 ---
 
-# 🎯 Výsledek
+# 🎯 Co vám to přinese
 
-- méně rutiny
-- nižší náklady
-- lepší přehled
-- vyšší efektivita
+- ⏱️ úsporu času
+- 💰 snížení provozních nákladů
+- 📈 vyšší produktivitu
+- 🧠 méně rutinní práce
+- 🔍 lepší přehled o provozu
 
 ---
 
@@ -32,6 +39,6 @@ Pomáháme malým firmám a živnostníkům **zefektivnit provoz, snížit nákl
 
 ---
 
-# 🤝 Chcete zjistit, co jde zjednodušit u vás?
+# 🤝 Chcete zjistit, co lze zautomatizovat u vás?
 
-Ozvěte se a podíváme se na to společně.
+Ozvěte se a navrhneme jednoduché řešení přímo pro váš provoz.
