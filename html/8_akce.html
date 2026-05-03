@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>akce</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>🎯 Akční nabídka</h1>
+<h2>🧠 Vyberte si jednu akci pro zaměření vaší živnosti / firmy</h2>
+<p>Abychom vám dokázali dodat maximální hodnotu, nabízíme několik typů vstupních akcí.
+👉 Na jedno IČO si prosím vyberte <strong>pouze jednu akci</strong>, kterou spolu rozjedeme jako první.</p>
+<hr />
+<h1>🚀 1) Pilot automatizace zdarma</h1>
+<h2>🧪 Otestujte reálný přínos bez rizika</h2>
+<ul>
+<li>Automatizace jednoho procesu / činnosti / zařízení</li>
+<li>Sledujeme úsporu času nebo nákladů či zvýšení kvality</li>
+<li>Do 30 dnů dostanete vyhodnocení</li>
+</ul>
+<p>💡 Ideální pro firmy, které chtějí vidět konkrétní výsledky</p>
+<hr />
+<h1>🧠 2) Diagnostika provozu zdarma</h1>
+<h2>💸 Odhalte skryté ztráty ve firmě</h2>
+<ul>
+<li>Analýza provozu, údržby a spotřeby</li>
+<li>Identifikace neefektivních míst</li>
+<li>Návrh úsporných opatření</li>
+</ul>
+<p>💡 Vhodné jako první krok před automatizací</p>
+<hr />
+<h1>🔧 3) Prediktivní monitoring 1 stroje</h1>
+<h2>⚙️ Zastavte poruchy dřív, než nastanou</h2>
+<ul>
+<li>Monitoring vibrací / stavu zařízení / signálu / alarmu</li>
+<li>Včasná detekce poruch</li>
+<li>Zkušební provoz na 1 zařízení</li>
+</ul>
+<p>💡 Ideální pro výrobní a servisní firmy</p>
+<hr />
+<h1>🌐 4) Vzdálená správa na zkoušku</h1>
+<h2>📡 Ušetřete první výjezd technika</h2>
+<ul>
+<li>Instalace vzdáleného monitoringu</li>
+<li>Ukázka dat v reálném čase</li>
+<li>Test snížení servisních zásahů</li>
+</ul>
+<p>💡 Pro servisní a technologické firmy</p>
+<hr />
+<h1>⏱️ 5) Automatizace jedné rutiny zdarma</h1>
+<h2>🧾 Méně papíru, více práce</h2>
+<ul>
+<li>Automatizace jednoduchého procesu</li>
+<li>faktury</li>
+<li>reporty</li>
+<li>notifikace</li>
+<li>Měření úspory času / kvality</li>
+</ul>
+<p>💡 Pro kanceláře a živnostníky</p>
+<hr />
+<h1>🏭 6) Energetický mini-audit</h1>
+<h2>🔋 Zjistěte, kde unikají peníze</h2>
+<ul>
+<li>Základní analýza spotřeby</li>
+<li>Identifikace hlavních odběrů</li>
+<li>Návrh optimalizace</li>
+</ul>
+<p>💡 Pro provozy s vyšší spotřebou energie</p>
+<hr />
+<h1>📌 Jak to funguje</h1>
+<ol>
+<li>Vyberete si <strong>jednu akci</strong></li>
+<li>Krátce si projdeme váš provoz</li>
+<li>Nasadíme řešení</li>
+<li>Do 30 dnů vidíte první výsledky</li>
+</ol>
+<hr />
+<h1>🤝 Proč jen jedna akce?</h1>
+<p>Abychom se soustředili na reálný přínos, ne na „zkoušení všeho“.
+👉 Každá firma dostane maximální pozornost na jednu oblast, kde to dává největší smysl.</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>

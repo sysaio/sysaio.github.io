@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>zamereni</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>⚙️ Zaměření (Technologie a vize)</h1>
+<h2>🧩 Co děláme</h2>
+<ul>
+<li>Vývoj jednoúčelových vestavěných (embedded) počítačů</li>
+<li>Chytré rozvaděče pro měření a regulaci (MaR)</li>
+</ul>
+<hr />
+<h2>🧠 Naše logika</h2>
+<ul>
+<li>Stavíme na <strong>stavových automatech (Event Driven Algorithm)</strong></li>
+<li>Díky tomu jsou naše systémy:</li>
+<li>⚡ extrémně rychlé</li>
+<li>🛡️ vysoce spolehlivé</li>
+<li>🧰 schopné fungovat roky bez chyb a restartů</li>
+</ul>
+<hr />
+<h2>🌐 IoT &amp; sítě</h2>
+<ul>
+<li>Využíváme moderní komunikační technologie</li>
+<li>Např. <strong>LoRaWAN</strong> pro:</li>
+<li>📡 bezpečný přenos dat</li>
+<li>📊 monitoring v reálném čase</li>
+<li>🔋 nízkou spotřebu energie</li>
+</ul>
+<hr />
+<h2>🤝 Komunitní model</h2>
+<ul>
+<li>Fungujeme na principu: <strong>„živnostníci pro živnostníky“</strong></li>
+<li>Sdílíme:</li>
+<li>🧠 algoritmy</li>
+<li>⚙️ technická řešení</li>
+<li>
+<p>📦 praktické know-how</p>
+</li>
+<li>
+<p>Cíl:</p>
+</li>
+<li>umožnit využití řešení i dalším odborníkům v různých regionech</li>
+<li>otevřený přístup přes naši <strong>wiki 📚</strong></li>
+</ul>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>

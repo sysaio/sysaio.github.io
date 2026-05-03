@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>uvod</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>📢 Zjednodušujeme život a podnikání pomocí technologií z velkého průmyslu. 🚀</h1>
+<p>Malým firmám a živnostníkům <strong>optimalizujeme procesy</strong>, <strong>šetříme čas, síly, peníze</strong>, <strong>zvyšujeme kvalitu</strong> a <strong>zlepšujeme produktivitu</strong> prostřednictvím moderních technologických řešení. 🌐💡</p>
+<p>Specializujeme se na <strong>automatizaci</strong>, <strong>digitalizaci</strong> a <strong>inovace</strong>, které přináší efektivitu do vašeho podnikání. 🔧🤖</p>
+<p>Pomáháme firmám <strong>optimalizovat procesy</strong>, <strong>šetřit čas, síly, peníze</strong>, <strong>zvýšit kvalitu</strong> a <strong>zlepšovat produktivitu</strong> prostřednictvím moderních technologických řešení. 🌐💡</p>
+<p>Specializujeme se na <strong>automatizaci</strong>, <strong>digitalizaci</strong> a <strong>inovace</strong>, které přináší efektivitu do vašeho podnikání. 🔧🤖</p>
+<hr />
+<h2>🔎 Co nabízíme:</h2>
+<ul>
+<li><strong>Automatizace procesů</strong> pro lepší efektivitu a nižší náklady.</li>
+<li><strong>Digitalizace</strong> pro moderní a ekologické řešení.</li>
+<li><strong>Inovace</strong> zaměřené na zrychlení a zjednodušení pracovních postupů.</li>
+</ul>
+<p>💬 <strong>Udělejte první krok ke zlepšení své firmy ještě dnes!</strong></p>
+<h2>Kontaktujte nás 📞</h2>
+<h1><strong>Ing. Libor Kocián</strong></h1>
+<p>🌍 <strong>Ing. Libor Kocián</strong>
+🏠 <strong>Adresa:</strong> 696 13, Šardice 390
+🆔 <strong>IČO:</strong> 24899399
+📱 <strong>Mobil:</strong> 602 941 181
+📧 <strong>Email:</strong> <a href="mailto:kocian.libor@seznam.cz">kocian.libor@seznam.cz</a></p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
