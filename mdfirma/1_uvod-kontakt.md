@@ -34,8 +34,8 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 # 🏠 **Adresa:** 696 13 Šardice 390
 # 🆔 **IČO:** 24899399
-# 📱 **Telefon:** 602 941 181
-# 📧 **Email:** kocian.libor@seznam.cz
+# 📱 **Zavolejte:** 602 941 181
+# 📧 **Napište:** kocian.libor@seznam.cz
 
 ---
 
