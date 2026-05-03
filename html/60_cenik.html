@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cenik</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<p># 💰 Ceník / Jak naceňujeme</p>
+<h2>🤝 Férově, transparentně a podle reálného rozsahu</h2>
+<p>Každý projekt je jiný.
+Někdo potřebuje jednoduché měření spotřeby, jiný kompletní automatizaci provozu.</p>
+<p>Proto netvoříme univerzální „ceník z katalogu“, ale navrhujeme řešení podle toho, co vám skutečně přinese hodnotu.</p>
+<p>👉 Platíte za výsledek, ne za zbytečnosti.</p>
+<hr />
+<h1>🧩 Jak naceňujeme</h1>
+<p>Cena se obvykle skládá z těchto částí:</p>
+<ul>
+<li>🔍 analýza potřeb a návrh řešení</li>
+<li>⚙️ hardware / zařízení / rozvaděč</li>
+<li>💻 software a logika řízení</li>
+<li>🔌 montáž a uvedení do provozu</li>
+<li>📱 napojení na mobil / vzdálený dohled</li>
+<li>🛠️ servis a budoucí rozšíření</li>
+</ul>
+<hr />
+<h1>📦 Orientační balíčky</h1>
+<h2>🏡 Start – od 9 900 Kč</h2>
+<p>Vhodné pro menší instalace:</p>
+<ul>
+<li>měření spotřeby</li>
+<li>jednoduché čidlo</li>
+<li>základní automatizace</li>
+<li>notifikace do mobilu</li>
+</ul>
+<hr />
+<h2>⚡ Smart Home – od 24 900 Kč</h2>
+<p>Pro domácnosti a menší objekty:</p>
+<ul>
+<li>řízení vytápění</li>
+<li>senzory vody / plynu</li>
+<li>vzdálené ovládání</li>
+<li>přehled spotřeby</li>
+</ul>
+<hr />
+<h2>🏭 Business – od 39 900 Kč</h2>
+<p>Pro firmy a provozovny:</p>
+<ul>
+<li>monitoring technologií</li>
+<li>energetický management</li>
+<li>automatizace procesů</li>
+<li>vzdálená správa zařízení</li>
+</ul>
+<hr />
+<h2>🚀 Individuální projekt – na míru</h2>
+<p>Pro složitější realizace:</p>
+<ul>
+<li>výrobní provozy</li>
+<li>vinařství</li>
+<li>více objektů</li>
+<li>zakázkové embedded řešení</li>
+<li>speciální integrace</li>
+</ul>
+<p>👉 Cena dle zadání a rozsahu.</p>
+<hr />
+<h1>🔍 Audit zdarma</h1>
+<p>Než začneme cokoliv navrhovat, můžeme společně projít váš provoz nebo domácnost.</p>
+<h2>Zjistíme například:</h2>
+<ul>
+<li>kde zbytečně unikají peníze</li>
+<li>co jde automatizovat</li>
+<li>co má rychlou návratnost</li>
+<li>co se vyplatí řešit později</li>
+</ul>
+<p>🎯 První konzultace je zdarma.</p>
+<hr />
+<h1>📈 Návratnost investice</h1>
+<p>Technologie by měla vydělávat, ne jen stát peníze.</p>
+<p>Proto u návrhů sledujeme:</p>
+<ul>
+<li>úsporu energií</li>
+<li>méně servisních výjezdů</li>
+<li>méně poruch</li>
+<li>úsporu času</li>
+<li>vyšší komfort</li>
+<li>delší životnost zařízení</li>
+</ul>
+<p>V mnoha případech se investice vrací v horizontu <strong>měsíců až několika let</strong> podle typu řešení.</p>
+<hr />
+<h1>❓ Nejčastější otázka: Proč není pevný ceník?</h1>
+<p>Protože rozdíl je například mezi:</p>
+<ul>
+<li>jedním senzorem v rodinném domě</li>
+<li>řízením topení v penzionu</li>
+<li>monitoringem výrobní linky</li>
+<li>zakázkovým embedded systémem</li>
+</ul>
+<p>Každý projekt má jiné potřeby.</p>
+<hr />
+<h1>🛡️ Na čem si zakládáme</h1>
+<ul>
+<li>férová cenová nabídka</li>
+<li>bez skrytých poplatků</li>
+<li>jasný rozsah prací</li>
+<li>možnost etapizace projektu</li>
+<li>řešení podle rozpočtu</li>
+</ul>
+<hr />
+<h1>📞 Chcete rychlý odhad ceny?</h1>
+<p>Napište nám na e-mail základní zadání projektu a připravíme orientační návrh řešení zdarma.</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
