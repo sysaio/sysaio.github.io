@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cenik akce</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>💰 Ceník &amp; akční nabídka</h1>
+<h2>🤝 Jak naceňujeme</h2>
+<p>Každý projekt je individuální.</p>
+<p>👉 Platíte za přínos, ne za zbytečné části.</p>
+<p>Cena se odvíjí od:
+- analýzy a návrhu
+- hardware a software
+- instalace
+- vzdáleného dohledu
+- servisu a rozšíření</p>
+<hr />
+<h2>📦 Orientační ceny</h2>
+<table>
+<thead>
+<tr>
+<th>Typ řešení</th>
+<th>Od ceny</th>
+<th>Co zahrnuje</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🏡 Menší instalace</td>
+<td>9 900 Kč</td>
+<td>měření, senzory, základní automatizace</td>
+</tr>
+<tr>
+<td>⚡ Domácnosti</td>
+<td>24 900 Kč</td>
+<td>řízení, spotřeba, vzdálené ovládání</td>
+</tr>
+<tr>
+<td>🏭 Firmy</td>
+<td>39 900 Kč</td>
+<td>monitoring, automatizace, dohled</td>
+</tr>
+<tr>
+<td>🚀 Individuální</td>
+<td>dle zadání</td>
+<td>komplexní a zakázková řešení</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>🎯 Akční nabídka (start spolupráce)</h2>
+<p>Vyberte si <strong>1 oblast</strong>, kde začneme:</p>
+<h3>⚙️ Automatizace procesů</h3>
+<ul>
+<li>méně rutiny</li>
+<li>vyšší efektivita</li>
+</ul>
+<h3>🧠 Diagnostika provozu</h3>
+<ul>
+<li>odhalení ztrát</li>
+<li>návrh optimalizace</li>
+</ul>
+<h3>🛡️ Prediktivní monitoring</h3>
+<ul>
+<li>prevence poruch</li>
+<li>nižší servisní náklady</li>
+</ul>
+<h3>🌐 Vzdálený dohled</h3>
+<ul>
+<li>přehled odkudkoliv</li>
+<li>méně výjezdů</li>
+</ul>
+<hr />
+<h2>🔍 Vstupní audit zdarma</h2>
+<ul>
+<li>analýza stavu</li>
+<li>návrh řešení</li>
+<li>odhad návratnosti</li>
+</ul>
+<p>👉 Nezávazná konzultace zdarma.</p>
+<hr />
+<h2>📞 Kontakt - kocian.libor@seznam.cz</h2>
+<p>Pošlete krátký popis problému.
+Navrhneme řešení + orientační cenu zdarma.</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
