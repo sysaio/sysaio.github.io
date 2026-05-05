@@ -77,7 +77,7 @@ Sdílíme know-how a zkušenosti tak, aby bylo možné:
 - spolupracovat s dalšími techniky
 - budovat ekosystém praktických řešení
 
-📚 Technická dokumentace a postupy jsou dostupné v naší wiki.
+📚 Technická dokumentace a postupy jsou dostupné v naší wiki: https://sysaio.github.io/wiki/
 
 ---
 
