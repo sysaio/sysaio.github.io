@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ubytovani</title>
+
+<style>
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --primary: #007BFF;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --primary: #4da3ff;
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p { margin-bottom: 1em; }
+
+ul, ol {
+  padding-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: var(--primary);
+}
+
+#top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background: var(--primary);
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div id="top">
+  <a href="../index.html">← Zpět</a>
+  <button onclick="toggleDark()">🌙</button>
+</div>
+
+<hr>
+
+<h1>🏡 Ubytování u Micky - Apartmán</h1>
+<p>Stylové ubytování v klidné lokalitě jižní Moravy.
+Ideální pro rodiny, přátele i menší skupiny.</p>
+<p>👉 Kapacita až 6 osob | 70 m²</p>
+<hr />
+<h2>🛏️ Dispozice apartmánu</h2>
+<ul>
+<li>chodba</li>
+<li>koupelna (pračka + sušička)</li>
+<li>samostatné WC</li>
+<li>plně vybavená kuchyně</li>
+<li>jídelna s obývacím prostorem (rozkládací gauč)</li>
+<li>prostorná ložnice</li>
+<li>manželská postel</li>
+<li>až 2 samostatné postele</li>
+</ul>
+<hr />
+<h2>💰 Ceník - <strong>od 500 Kč za osobu a noc</strong> (za noc / celý apartmán)</h2>
+<table>
+<thead>
+<tr>
+<th>Počet osob</th>
+<th>Cena</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1–2 osoby</td>
+<td>1 800 Kč</td>
+</tr>
+<tr>
+<td>3–4 osoby</td>
+<td>2 400 Kč</td>
+</tr>
+<tr>
+<td>5–6 osob</td>
+<td>3 000 Kč</td>
+</tr>
+</tbody>
+</table>
+<h2>- snídaně v ceně</h2>
+<h2>🍽️ Možnosti navíc</h2>
+<ul>
+<li>polopenze / plná penze</li>
+<li>řízená degustace</li>
+<li>grilování</li>
+</ul>
+<p>👉 Ideální pro skupiny a víkendové pobyty</p>
+<hr />
+<h2>📍 Lokalita</h2>
+<p>Šardice 390
+696 13 Šardice</p>
+<p>📌 Mapy:</p>
+<ul>
+<li>
+<p>https://maps.app.goo.gl/unh45Vpv856czuGMA</p>
+</li>
+<li>
+<p>https://mapy.com/s/pefatalajo</p>
+</li>
+</ul>
+<hr />
+<h2>📞 Kontakt</h2>
+<p>📧 kocian.libor@seznam.cz
+📱 +420 602 941 181</p>
+<p>check in od 15:00 do 22:00 hodin</p>
+<p>👉 Pro aktuální dostupnost nás kontaktujte</p>
+
+<script>
+function toggleDark() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark-mode', document.body.classList.contains('dark'));
+}
+
+if (localStorage.getItem('dark-mode') === 'true') {
+  document.body.classList.add('dark');
+}
+</script>
+
+</body>
+</html>
