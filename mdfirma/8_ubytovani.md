@@ -5,6 +5,12 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 👉 Kapacita až 6 osob | 70 m²
 
+## Hodnocení
+
+👉 [Napsat recenzi na Google Maps](https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw)
+
+[![Google Reviews](https://img.shields.io/badge/Google-Napsat%20recenzi-blue?logo=google)](https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw)
+
 ---
 
 ## 🛏️ Dispozice apartmánu
