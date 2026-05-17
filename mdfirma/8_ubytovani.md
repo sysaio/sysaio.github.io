@@ -50,8 +50,6 @@ Ideální pro rodiny, přátele i menší skupiny.
 - grilování
 - víkendové pobyty
 
-👉 Ideální pro skupiny, cyklisty i milovníky vína
-
 ---
 
 ## 📍 Lokalita
