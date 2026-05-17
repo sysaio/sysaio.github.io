@@ -37,6 +37,15 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 ## 📱 **Zavolejte:** 602 941 181
 ## 📧 **Napište:** kocian.libor@seznam.cz
 
+
+
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA)
+
+[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo)
+
+- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA)
+
+- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo)
 ---
 
 ## 🤝 Chcete zjistit, co lze zautomatizovat u vás?
