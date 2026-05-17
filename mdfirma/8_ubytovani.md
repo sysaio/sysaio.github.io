@@ -70,4 +70,4 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 🕒 Check-in: 15:00–22:00
 
-👉 Pro aktuální dostupnost nás neváhejte kontaktovat
+💡 Nejlepší cena při přímé rezervaci telefonicky nebo e-mailem.
