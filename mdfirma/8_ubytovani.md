@@ -52,11 +52,11 @@ Ideální pro rodiny, přátele i menší skupiny.
 Šardice 390
 696 13 Šardice
 
-📌 Mapy:
+📌 **Mapy:**
 
-- https://maps.app.goo.gl/unh45Vpv856czuGMA
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA)
 
-- https://mapy.com/s/pefatalajo
+[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo)
 
 ---
 
