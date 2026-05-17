@@ -1,4 +1,4 @@
-# 🏡 Ubytování u Micky - Apartmán
+# 🏡 Apartmán u Micky - Stylové ubytování v klidné lokalitě jižní Moravy 🍷
 
 Stylové ubytování v klidné lokalitě jižní Moravy.
 Ideální pro rodiny, přátele i menší skupiny.
