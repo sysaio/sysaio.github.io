@@ -17,9 +17,9 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 | Osoby | Apartmán / noc | Přibližně za osobu |
 |---|---:|---:|
-| 1–2 osoby | 1 500 Kč | od 750 Kč |
-| 3–4 osoby | 2 000 Kč | od 500 Kč |
-| 5–6 osob | 2 400 Kč | od 400 Kč |
+| 1–2 osoby | 1 700 Kč | od 850 Kč |
+| 3–4 osoby | 2 200 Kč | od 550 Kč |
+| 5–6 osob | 2 700 Kč | od 450 Kč |
 
 🥐 Snídaně v ceně
 📶 Wi-Fi a parkování zdarma
