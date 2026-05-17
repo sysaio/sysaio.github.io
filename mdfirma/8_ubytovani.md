@@ -13,37 +13,40 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ---
 
+## 💰 Ceník ubytování
+
+| Osoby | Apartmán / noc | Přibližně za osobu |
+|---|---:|---:|
+| 1–2 osoby | 1 500 Kč | od 750 Kč |
+| 3–4 osoby | 2 000 Kč | od 500 Kč |
+| 5–6 osob | 2 400 Kč | od 400 Kč |
+
+🥐 Snídaně v ceně
+📶 Wi-Fi a parkování zdarma
+📌 Uvedené ceny jsou konečné včetně DPH
+
 ## 🛏️ Dispozice apartmánu
 
-- chodba
+- vstupní chodba
 - koupelna (pračka + sušička)
 - samostatné WC
 - plně vybavená kuchyně
-- jídelna s obývacím prostorem (rozkládací gauč)
+- jídelna s obývacím prostorem
+  - rozkládací gauč
 - prostorná ložnice
-  - manželská postel
-  - až 2 samostatné postele
+  - 1× manželská postel
+  - 2× samostatné postele
 
 ---
 
-## 💰 Ceník - **od 500 Kč za osobu a noc** (za noc / celý apartmán)
-
-| Počet osob | Cena |
-|------------|------|
-| 1–2 osoby  | 1 800 Kč |
-| 3–4 osoby  | 2 400 Kč |
-| 5–6 osob   | 3 000 Kč |
-
-- snídaně v ceně
----
-
-## 🍽️ Možnosti navíc
+## 🍷 Možnosti navíc
 
 - polopenze / plná penze
-- řízená degustace
+- řízená degustace vín
 - grilování
+- víkendové pobyty
 
-👉 Ideální pro skupiny a víkendové pobyty
+👉 Ideální pro skupiny, cyklisty i milovníky vína
 
 ---
 
@@ -60,11 +63,11 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ---
 
-## 📞 Kontakt
+## 📞 Kontakt a rezervace
 
 📧 kocian.libor@seznam.cz
 📱 +420 602 941 181
 
-check in od 15:00 do 22:00 hodin
+🕒 Check-in: 15:00–22:00
 
-👉 Pro aktuální dostupnost nás kontaktujte
+👉 Pro aktuální dostupnost nás neváhejte kontaktovat
