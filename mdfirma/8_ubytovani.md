@@ -75,36 +75,100 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## 📸 Fotogalerie ubytovaní
 
-<div style="text-align:center;">
+<div class="gallery">
 
-<img src="../images/ap01.jpeg" width="45%">
-<img src="../images/ap02.jpeg" width="45%">
+<button onclick="prevImage()">❮</button>
 
-<img src="../images/ap03.jpeg" width="45%">
-<img src="../images/ap04.jpeg" width="45%">
+<img id="gallery-image" src="../images/ap01.jpeg">
 
-<img src="../images/ap05.jpeg" width="45%">
-<img src="../images/ap06.jpeg" width="45%">
-
-<img src="../images/ap07.jpeg" width="45%">
-<img src="../images/ap08.jpeg" width="45%">
-
-<img src="../images/ap09.jpeg" width="45%">
-<img src="../images/ap10.jpeg" width="45%">
-
-<img src="../images/ap11.jpeg" width="45%">
-<img src="../images/ap12.jpeg" width="45%">
-
-<img src="../images/ap13.jpeg" width="45%">
-<img src="../images/ap14.jpeg" width="45%">
-
-<img src="../images/ap15.jpeg" width="45%">
-<img src="../images/ap16.jpeg" width="45%">
-
-<img src="../images/ap17.jpeg" width="45%">
-<img src="../images/ap18.jpeg" width="45%">
-
-<img src="../images/ap19.jpeg" width="45%">
-<img src="../images/ap20.jpeg" width="45%">
+<button onclick="nextImage()">❯</button>
 
 </div>
+
+<script>
+
+const images = [
+  "../images/ap01.jpeg",
+  "../images/ap02.jpeg",
+  "../images/ap03.jpeg",
+  "../images/ap04.jpeg",
+  "../images/ap05.jpeg",
+  "../images/ap06.jpeg",
+  "../images/ap07.jpeg",
+  "../images/ap08.jpeg",
+  "../images/ap09.jpeg",
+  "../images/ap10.jpeg",
+  "../images/ap11.jpeg",
+  "../images/ap12.jpeg",
+  "../images/ap13.jpeg",
+  "../images/ap14.jpeg",
+  "../images/ap15.jpeg",
+  "../images/ap16.jpeg",
+  "../images/ap17.jpeg",
+  "../images/ap18.jpeg",
+  "../images/ap19.jpeg",
+  "../images/ap20.jpeg"
+];
+
+let current = 0;
+
+const img = document.getElementById("gallery-image");
+
+function showImage() {
+  img.src = images[current];
+}
+
+function nextImage() {
+  current = (current + 1) % images.length;
+  showImage();
+}
+
+function prevImage() {
+  current = (current - 1 + images.length) % images.length;
+  showImage();
+}
+
+let startX = 0;
+
+img.addEventListener("touchstart", e => {
+  startX = e.touches[0].clientX;
+});
+
+img.addEventListener("touchend", e => {
+  let endX = e.changedTouches[0].clientX;
+
+  if (startX - endX > 50) {
+    nextImage();
+  }
+
+  if (endX - startX > 50) {
+    prevImage();
+  }
+});
+
+</script>
+
+<style>
+
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.gallery img {
+  width: 90%;
+  max-width: 800px;
+  border-radius: 12px;
+}
+
+.gallery button {
+  font-size: 2em;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+</style>
