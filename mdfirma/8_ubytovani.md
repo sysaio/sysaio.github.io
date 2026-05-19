@@ -75,7 +75,7 @@ Hradčany 390, 696 13 Šardice
 
 ---
 
-## 📸 Fotogalerie
+## 📸 Fotogalerie ubytovani
 
 <p align="center">
   <img src="images/ap01.jpeg" width="45%">
