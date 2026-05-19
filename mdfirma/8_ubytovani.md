@@ -75,54 +75,38 @@ Hradčany 390, 696 13 Šardice
 
 ---
 
-## 📸 Fotogalerie ubytovani
+## 📸 Fotogalerie našeho ubytovani
 
-<p align="center">
-  <img src="images/ap01.jpeg" width="45%">
-  <img src="images/ap02.jpeg" width="45%">
-</p>
+<div style="text-align:center;">
 
-<p align="center">
-  <img src="images/ap03.jpeg" width="45%">
-  <img src="images/ap04.jpeg" width="45%">
-</p>
+<img src="../images/ap01.jpeg" width="45%">
+<img src="../images/ap02.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap05.jpeg" width="45%">
-  <img src="images/ap06.jpeg" width="45%">
-</p>
+<img src="../images/ap03.jpeg" width="45%">
+<img src="../images/ap04.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap07.jpeg" width="45%">
-  <img src="images/ap08.jpeg" width="45%">
-</p>
+<img src="../images/ap05.jpeg" width="45%">
+<img src="../images/ap06.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap09.jpeg" width="45%">
-  <img src="images/ap10.jpeg" width="45%">
-</p>
+<img src="../images/ap07.jpeg" width="45%">
+<img src="../images/ap08.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap11.jpeg" width="45%">
-  <img src="images/ap12.jpeg" width="45%">
-</p>
+<img src="../images/ap09.jpeg" width="45%">
+<img src="../images/ap10.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap13.jpeg" width="45%">
-  <img src="images/ap14.jpeg" width="45%">
-</p>
+<img src="../images/ap11.jpeg" width="45%">
+<img src="../images/ap12.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap15.jpeg" width="45%">
-  <img src="images/ap16.jpeg" width="45%">
-</p>
+<img src="../images/ap13.jpeg" width="45%">
+<img src="../images/ap14.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap17.jpeg" width="45%">
-  <img src="images/ap18.jpeg" width="45%">
-</p>
+<img src="../images/ap15.jpeg" width="45%">
+<img src="../images/ap16.jpeg" width="45%">
 
-<p align="center">
-  <img src="images/ap19.jpeg" width="45%">
-  <img src="images/ap20.jpeg" width="45%">
-</p>
+<img src="../images/ap17.jpeg" width="45%">
+<img src="../images/ap18.jpeg" width="45%">
+
+<img src="../images/ap19.jpeg" width="45%">
+<img src="../images/ap20.jpeg" width="45%">
+
+</div>
