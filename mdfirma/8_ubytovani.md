@@ -52,9 +52,7 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ---
 
-## 📍 Lokalita
-
-Hradčany 390, 696 13 Šardice
+## 📍 Adresa: Hradčany 390, 696 13 Šardice
 
 📌 **Mapy:**
 
