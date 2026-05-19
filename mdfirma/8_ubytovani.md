@@ -73,7 +73,7 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ---
 
-## 📸 Fotogalerie ubytovaní
+## 📸 Fotogalerie Apartmán u Micky Šardice 390
 
 <div class="gallery">
 
@@ -132,9 +132,14 @@ let startX = 0;
 
 img.addEventListener("touchstart", e => {
   startX = e.touches[0].clientX;
-});
+}, { passive: true });
+
+img.addEventListener("touchmove", e => {
+  e.preventDefault();
+}, { passive: false });
 
 img.addEventListener("touchend", e => {
+
   let endX = e.changedTouches[0].clientX;
 
   if (startX - endX > 50) {
@@ -144,7 +149,8 @@ img.addEventListener("touchend", e => {
   if (endX - startX > 50) {
     prevImage();
   }
-});
+
+}, { passive: true });
 
 </script>
 
@@ -162,6 +168,8 @@ img.addEventListener("touchend", e => {
   width: 90%;
   max-width: 800px;
   border-radius: 12px;
+  touch-action: none;
+  user-select: none;
 }
 
 .gallery button {
@@ -169,6 +177,7 @@ img.addEventListener("touchend", e => {
   background: none;
   border: none;
   cursor: pointer;
+  padding: 0 10px;
 }
 
 </style>
