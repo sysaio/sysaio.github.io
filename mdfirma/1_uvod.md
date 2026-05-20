@@ -27,14 +27,14 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 ---
 
-# 📞 Kontakt
+## 📞 Kontakt
 
-## 🌍 Ing. Libor Kocián ⚙️
+### 🌍 Ing. Libor Kocián ⚙️
 
-## 🏠 **Adresa:** Hradčany 390, Šardice, 696 13
-## 🆔 **IČO:** 248 99399
-## 📱 **Zavolejte:** 602 941 181
-## 📧 **Napište:** kocian.libor@seznam.cz
+### 🏠 **Adresa:** Hradčany 390, Šardice, 696 13
+### 🆔 **IČO:** 248 99399
+### 📱 **Zavolejte:** 602 941 181
+### 📧 **Napište:** kocian.libor@seznam.cz
 
 
 
