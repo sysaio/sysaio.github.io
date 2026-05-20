@@ -33,7 +33,7 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
   <img src="https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps" alt="Google Maps">
 </a>
 
-<a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
+<a href="https://mapy.com/s/pefatalajo" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Mapy.cz-Navigace-blue" alt="Mapy.cz">
 </a>
 
@@ -45,7 +45,7 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
   Google Maps – Ubytování u Micky
 </a>
 
-- 🌍 <a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
+- 🌍 <a href="https://mapy.com/s/pefatalajo" target="_blank" rel="noopener noreferrer">
   Mapy.com – navigace
 </a>
 
