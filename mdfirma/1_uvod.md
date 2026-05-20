@@ -1,9 +1,3 @@
-# 🚀 Zjednodušujeme život a podnikání pomocí moderních technologií
-
-Firmy, živnostníci a chytré domácnosti: **zefektivnit provoz, snížit náklady a ušetřit čas** pomocí automatizace, digitalizace a chytrých technologických řešení.
-
----
-
 # ⚙️ Co děláme
 
 ## 🔧 Automatizace procesů
