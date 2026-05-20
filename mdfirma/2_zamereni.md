@@ -71,13 +71,10 @@ Každé řešení:
 
 # 🤝 Spolupráce a otevřenost
 
-Sdílíme know-how a zkušenosti tak, aby bylo možné:
+Věříme v praktické sdílení know-how, otevřenou spolupráci a rozvoj funkčních řešení.
 
-- rozvíjet řešení v různých provozech
-- spolupracovat s dalšími techniky
-- budovat ekosystém praktických řešení
-
-📚 Technická dokumentace a postupy jsou dostupné v naší wiki: https://sysaio.github.io/wiki/
+👉 📚 **Technická dokumentace, návody a postupy najdete v naší wiki:**
+[![Wiki](https://img.shields.io/badge/Otevřít%20Wiki-Documentation-blue?style=for-the-badge&logo=github)](https://sysaio.github.io/wiki/)
 
 ---
 
