@@ -56,6 +56,32 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
   Mapy.com – navigace
 </a>
 
+
+
+
+<!-- Badge odkazy -->
+<a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps" alt="Google Maps">
+</a>
+
+<a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Mapy.cz-Navigace-blue" alt="Mapy.cz">
+</a>
+
+<br><br>
+
+<!-- Textové odkazy -->
+- 🗺️ <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
+  Google Maps – Ubytování u Micky
+</a>
+
+- 🌍 <a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
+  Mapy.com – navigace
+</a>
+
+
+
+
 <iframe style="border:none" src="https://mapy.com/s/motakevova" width="400" height="280" frameborder="0"></iframe>
 
 ---
