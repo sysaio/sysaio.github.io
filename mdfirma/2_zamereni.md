@@ -1,86 +1,37 @@
-# ⚙️ Technologie a přístup
+# ⚙️ Technologie
 
-## 🧩 Co vyvíjíme
+Vyvíjíme řešení pro monitoring, automatizaci a vzdálený dohled.
 
-Navrhujeme a stavíme specializovaná technická řešení pro automatizaci a monitoring:
-
-- 🔌 embedded (vestavěné) systémy
-- 🏭 chytré rozvaděče pro měření a regulaci (MaR)
-- 📡 IoT zařízení pro sběr a přenos dat
+- 🔌 embedded systémy
+- 🏭 rozvaděče MaR
+- 📡 IoT zařízení a komunikace
 
 ---
 
-# 🧠 Jak přemýšlíme
+## ⚡ Princip řešení
 
-Naše systémy nejsou univerzální „software na všechno“.
+Řídicí systémy reagující v reálném čase na:
+- stavy zařízení
+- data ze senzorů
+- alarmy a provozní události
 
-Stavíme je jako **spolehlivé řídicí systémy**, které reagují na události v reálném čase.
+### Komunikace:
+- LoRaWAN
+- Ethernet / intranet
+- VPN
+- 4G / 5G
+- vzdálený přístup
 
-## ⚡ Event Driven přístup
-
-Systém reaguje na to, co se děje:
-
-- změna stavu
-- měření ze senzoru
-- alarm
-- provozní událost
-
-## Výsledek:
-
-- 🛡️ vysoká stabilita
-- ⚡ rychlá reakce
-- 🔧 minimum chybových stavů
-- 📆 dlouhodobý bezúdržbový provoz
+### Výsledkem je:
+- stabilní provoz
+- rychlá odezva
+- vzdálený dohled
+- nízké nároky na údržbu
 
 ---
 
-# 🌐 IoT a komunikace
+## 🤝 Spolupráce & dokumentace
 
-Pro vzdálený monitoring a řízení využíváme moderní síťové technologie.
+Technickou dokumentaci, návody a postupy sdílíme otevřeně v naší wiki.
 
-## 📡 LoRaWAN
-
-Ideální pro:
-
-- velké areály
-- zemědělství a vinařství
-- průmyslové provozy
-- senzory bez stálého napájení
-
-## Přínosy:
-
-- 🔋 nízká spotřeba energie
-- 📊 přenos dat v reálném čase
-- 📡 dlouhý dosah bez infrastruktury
-- 🔒 bezpečná komunikace
-
----
-
-# 🧠 Přístup k návrhu řešení
-
-Neprodáváme univerzální krabičky.
-
-Každé řešení:
-
-- je navržené pro konkrétní provoz
-- odpovídá reálnému použití
-- je dlouhodobě udržitelné
-- lze rozšiřovat v čase
-
----
-
-# 🤝 Spolupráce a otevřenost
-
-Věříme v praktické sdílení know-how, otevřenou spolupráci a rozvoj funkčních řešení.
-
-👉 📚 **Technická dokumentace, návody a postupy najdete v naší wiki:**
 [![Wiki](https://img.shields.io/badge/Otevřít%20Wiki-Documentation-blue?style=for-the-badge&logo=github)](https://sysaio.github.io/wiki/)
-
----
-
-# 🚀 Co z toho má zákazník
-
-- spolehlivý provoz bez častých zásahů
-- přehled o tom, co se v systému děje
-- nižší provozní náklady
-- možnost růstu systému v čase
