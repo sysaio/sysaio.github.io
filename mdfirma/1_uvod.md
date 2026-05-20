@@ -30,13 +30,34 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 
 
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA){:target="_blank"}
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA)
 
-[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo){:target="_blank"}
+[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo)
 
-- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA){:target="_blank"}
+- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA)
 
-- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo){:target="_blank"}
+- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo)
+
+
+<a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps" alt="Google Maps">
+</a>
+
+<a href="https://mapy.com/s/pefatalajo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Mapy.cz-Navigace-blue" alt="Mapy.cz">
+</a>
+
+
+- 🗺️ <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
+  Google Maps – Ubytování u Micky
+</a>
+
+- 🌍 <a href="https://mapy.com/s/pefatalajo" target="_blank" rel="noopener noreferrer">
+  Mapy.com – navigace
+</a>
+
+
+
 ---
 
 ## 🤝 Chcete zjistit, co lze zautomatizovat u vás?
