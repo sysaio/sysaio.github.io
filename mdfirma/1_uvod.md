@@ -1,5 +1,3 @@
-# ⚙️ Co děláme
-
 ## 🔧 Automatizace procesů
 Zbavujeme firmy rutinní práce a manuálních činností.
 
@@ -32,13 +30,13 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 
 
 
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA){:target="_blank"}
 
-[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo)
+[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo){:target="_blank"}
 
-- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA)
+- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA){:target="_blank"}
 
-- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo)
+- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo){:target="_blank"}
 ---
 
 ## 🤝 Chcete zjistit, co lze zautomatizovat u vás?
