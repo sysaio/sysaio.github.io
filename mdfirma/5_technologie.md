@@ -1,156 +1,79 @@
 # 📚 Technologie
 
-## ⚙️ Spolehlivé systémy pro reálný provoz
-
-Nevyrábíme univerzální „chytré krabičky“.
-
-Navrhujeme **technická řešení na míru**, která mají fungovat dlouhodobě, stabilně a bez zbytečné údržby.
+Navrhujeme technická řešení pro monitoring, automatizaci a řízení provozů.
 
 Důraz klademe na:
-
-- ⚡ rychlou reakci systému
-- 🛡️ spolehlivý provoz 24/7
-- 🔒 bezpečnost a kontrolu dat
-- 🔧 servisovatelnost a rozšiřitelnost
-- 📈 dlouhodobou udržitelnost
+- stabilní provoz 24/7
+- rychlou reakci systému
+- bezpečnost komunikace
+- dlouhodobou servisovatelnost
 
 ---
 
-# 🧩 Embedded systémy
+## 🧩 Embedded & MaR
 
-Vyvíjíme specializované **vestavěné (embedded) systémy** určené pro konkrétní úlohy v provozu.
-
-## Použití:
-
-- měření a regulace (MaR)
-- řízení technologií
+Vyvíjíme:
+- embedded systémy
+- rozvaděče MaR
 - monitoring zařízení
-- energetické systémy
-- sběr dat z čidel
-- automatizace provozů
+- sběr dat ze senzorů
+- řízení technologií
 
-## Charakteristika:
-
-- nízká spotřeba
-- stabilní běh 24/7
-- dlouhá životnost
-- minimální softwarová složitost
-- vysoká spolehlivost
-
----
-
-# ⚡ Event-driven řízení
-
-Systémy navrhujeme jako **reaktivní (event-driven)** – reagují na události v reálném čase.
-
-## Typické události:
-
-- změna stavu senzoru
-- alarmová situace
-- provozní odchylka
-- výpadek napájení
-- změna měřených hodnot
-
-## Přínos:
-
-- okamžitá reakce
-- stabilní chování systému
-- nízké zatížení
-- minimum chybových stavů
-- dlouhodobý bezproblémový provoz
-
----
-
-# 🌐 IoT a LoRaWAN
-
-Pro vzdálený sběr dat a monitoring využíváme moderní IoT přístup.
-
-## 📡 LoRaWAN je vhodný pro:
-
-- rozsáhlé areály
-- zemědělství a vinařství
-- technická čidla v terénu
-- monitoring bez infrastruktury
-- bateriová zařízení
-
-## Výhody:
-
-- dlouhý dosah
-- nízká spotřeba energie
-- bezpečný přenos dat
-- nízké provozní náklady
-- provoz v reálném čase
-
----
-
-# 🏭 Měření a regulace (MaR)
-
-Navrhujeme systémy pro řízení technologií v budovách i provozech.
-
-## Typické oblasti:
-
+Použití:
+- energetika
 - vytápění a chlazení
-- ventilace
-- čerpání a hospodaření s vodou
-- energetické toky
-- technologické celky
-- závlaha a zemědělství
-
-## Výsledek:
-
-- nižší spotřeba energií
-- stabilní provoz
-- automatické řízení
-- lepší přehled o systému
-- méně poruch a zásahů
+- voda a čerpání
+- průmysl
+- zemědělství a vinařství
 
 ---
 
-# 🔒 Bezpečnost a data
+## ⚡ Event-driven řízení
 
-Bezpečnost není doplněk, ale součást návrhu.
+Systémy reagují v reálném čase na:
+- změny stavů
+- alarmy
+- provozní odchylky
+- měřená data
 
-## Základní principy:
+### Výsledkem je:
+- stabilní provoz
+- nízké zatížení systému
+- minimum chybových stavů
+
+---
+
+## 🌐 Komunikace & IoT
+
+Podporujeme:
+- LoRaWAN
+- Ethernet / intranet
+- VPN
+- 4G / 5G
+- vzdálený přístup
+
+---
+
+## 🔒 Bezpečnost
 
 - šifrovaná komunikace
 - oddělení přístupů
 - zabezpečený vzdálený přístup
-- lokální zpracování dat tam, kde je to vhodné
-- minimalizace závislosti na externích službách
-
-## Výsledek:
-
-Vaše data zůstávají pod vaší kontrolou.
+- lokální zpracování dat
 
 ---
 
-# 🔧 Dlouhá životnost systémů
+## 📊 Přínosy
 
-Systémy navrhujeme s ohledem na dlouhodobý provoz, ne krátkodobý cyklus.
-
-## Znamená to:
-
-- stabilní provoz v čase
-- možnost servisovat a upravovat
-- rozšiřitelnost bez redesignu
-- nezávislost na jedné aplikaci
-- odolnost v provozu
+- nižší provozní náklady
+- méně manuálních zásahů
+- vzdálený dohled
+- vyšší spolehlivost provozu
 
 ---
 
-# 🚀 Technologie jako nástroj úspory
+## 🤝 Dokumentace & spolupráce
 
-Technologie má smysl jen tehdy, když přináší konkrétní výsledek:
+Technickou dokumentaci a postupy sdílíme otevřeně v naší wiki.
 
-- ⏱️ úsporu času
-- 💰 snížení nákladů
-- 🔧 méně manuální práce
-- 🧠 lepší rozhodování
-- 📊 přehled o provozu
-- 🛡️ vyšší spolehlivost
-
----
-
-# 🤝 Chcete zjistit možnosti automatizace?
-
-Ozvěte se – navrhneme jednoduché a funkční řešení pro váš provoz.
+[![Wiki](https://img.shields.io/badge/Otevřít%20Wiki-Documentation-blue?style=for-the-badge&logo=github)](https://sysaio.github.io/wiki/)

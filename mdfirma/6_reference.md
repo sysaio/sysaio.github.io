@@ -1,104 +1,49 @@
 # 🧪 Reference
 
-## 🤝 Nová značka, dlouholeté zkušenosti
-
-Tato značka vzniká jako nový samostatný projekt, ale stojí na více než **20 letech praxe v IT, elektrotechnice, automatizaci a řízení technologií**.
-
-Nezačínáme od nuly – jen stavíme věci novým způsobem.
-
----
-
-# ⚙️ Přístup k práci
-
-Nezaměřujeme se na technologie samotné.
-
-Zaměřujeme se na to, aby **fungovaly v reálném provozu a přinášely konkrétní výsledky**.
-
-Pracujeme v oblastech:
-
-- 🧠 automatizace procesů
-- ⚙️ embedded a řídicí systémy
-- 🌐 IoT a vzdálený monitoring
-- 🔌 měření a regulace (MaR)
-- 📊 práce s provozními daty
-- 🔒 bezpečnost a spolehlivost
+Nový samostatný projekt postavený na více než 20 letech praxe v:
+- IT a systémové analýze
+- automatizaci a MaR
+- embedded systémech
+- monitoringu a provozních datech
 
 ---
 
-# 🏢 Oblasti zkušeností
+## ⚙️ Zaměření
 
-## 💻 IT a analýza systémů
-- návrh a správa IT řešení
-- analýza procesů a dat
-- projektové řízení
-- business a systémová analýza
-
----
-
-## ⚙️ Technické a embedded systémy
-- návrh elektronických a řídicích systémů
-- provoz technologií
-- diagnostika a monitoring zařízení
-- komunikační a datové systémy
+- automatizace procesů
+- vzdálený monitoring
+- řízení technologií
+- IoT a komunikace
+- provozní a technická data
 
 ---
 
-## 🌍 Provoz v kritických prostředích
-- nepřetržitý dohled nad systémy
-- práce s provozními daty v reálném čase
-- mezinárodní technické prostředí
-- vysoké nároky na spolehlivost
+## 🏭 Zkušenosti z praxe
+
+- průmyslové a technické provozy
+- energetika a infrastruktura
+- provoz systémů 24/7
+- diagnostika a dohled
+- návrh a správa technologií
 
 ---
 
-## 🏭 Firemní a provozní praxe
-- IT nákup a správa technologií
-- hodnocení investic a řešení
-- řízení požadavků a dodávek
-- provozní a ekonomické rozhodování
+## 📊 Přístup
+
+Řešení navrhujeme s důrazem na:
+- stabilní provoz
+- dlouhodobou udržitelnost
+- jednoduchou servisovatelnost
+- reálný přínos v provozu
 
 ---
 
-# 🧩 Co to znamená pro klienta
+## 🚀 Aktuální stav
 
-Výsledkem není jen technické řešení.
-
-Ale systém, který:
-
-- ⚙️ skutečně funguje v provozu
-- 💰 dává ekonomický smysl
-- 🔧 minimalizuje potřebu zásahů
-- 📈 zlepšuje přehled a rozhodování
-- 🧠 propojuje techniku a byznys
+Projekt je v nové samostatné fázi a první realizace vznikají individuálně podle potřeb zákazníků.
 
 ---
 
-# 🚀 Aktuální stav
+## 🤝 Spolupráce
 
-Projekt je v nové samostatné fázi.
-
-To znamená:
-
-- 🔹 první realizace vznikají právě nyní
-- 🔹 každý projekt má individuální přístup
-- 🔹 důraz je na kvalitu, ne objem
-- 🔹 budujeme dlouhodobé reference
-
----
-
-# 🤝 Proč spolupracovat teď
-
-První klienti získávají:
-
-- přímou komunikaci bez prostředníků
-- flexibilní přístup k návrhu řešení
-- vysokou míru zapojení do návrhu
-- dlouhodobého technického partnera
-
----
-
-# 📞 Hledáte funkční technické řešení?
-
-Ozvěte se.
-
-Navrhneme jednoduchý, spolehlivý a udržitelný systém pro váš provoz nebo domácnost.
+Hledáme firmy a provozy, kde dává automatizace a monitoring praktický smysl.

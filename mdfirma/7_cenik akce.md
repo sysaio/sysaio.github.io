@@ -1,64 +1,31 @@
-# 💰 Ceník & akční nabídka
+# 💰 Ceník
 
-## 🤝 Jak naceňujeme
-
-Každý projekt je individuální.
-
-👉 Platíte za přínos, ne za zbytečné části.
-
-Cena se odvíjí od:
-- analýzy a návrhu
-- hardware a software
-- instalace
-- vzdáleného dohledu
-- servisu a rozšíření
-
----
+Každý projekt naceňujeme individuálně podle rozsahu, technologií a typu provozu.
 
 ## 📦 Orientační ceny
 
-| Typ řešení        | Od ceny     | Co zahrnuje |
-|------------------|------------|------------|
-| 🏡 Menší instalace | 9 900 Kč   | měření, senzory, základní automatizace |
-| ⚡ Domácnosti      | 24 900 Kč  | řízení, spotřeba, vzdálené ovládání |
-| 🏭 Firmy           | 39 900 Kč  | monitoring, automatizace, dohled |
-| 🚀 Individuální    | dle zadání | komplexní a zakázková řešení |
+| Typ projektu | Od ceny |
+|---|---|
+| 🏡 Menší instalace | 9 900 Kč |
+| ⚡ Domácnosti | 24 900 Kč |
+| 🏭 Firemní provozy | 39 900 Kč |
+| 🚀 Individuální projekty | dle zadání |
 
 ---
 
-## 🎯 Akční nabídka (start spolupráce)
+## ⚙️ Typické oblasti
 
-Vyberte si **1 oblast**, kde začneme:
-
-### ⚙️ Automatizace procesů
-- méně rutiny
-- vyšší efektivita
-
-### 🧠 Diagnostika provozu
-- odhalení ztrát
-- návrh optimalizace
-
-### 🛡️ Prediktivní monitoring
-- prevence poruch
-- nižší servisní náklady
-
-### 🌐 Vzdálený dohled
-- přehled odkudkoliv
-- méně výjezdů
+- automatizace procesů
+- monitoring technologií
+- vzdálený dohled
+- energetický management
+- prediktivní údržba
 
 ---
 
-## 🔍 Vstupní audit zdarma
+## 📞 Kontakt
 
-- analýza stavu
-- návrh řešení
-- odhad návratnosti
+📧 kocian.libor@seznam.cz
 
-👉 Nezávazná konzultace zdarma.
-
----
-
-## 📞 Kontakt - kocian.libor@seznam.cz
-
-Pošlete krátký popis problému.
-Navrhneme řešení + orientační cenu zdarma.
+👉 Na zprávy reálně odpovídáme.
+Ozveme se s návrhem dalšího postupu nebo termínem konzultace.

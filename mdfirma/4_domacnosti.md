@@ -1,97 +1,62 @@
 # 🏡 Chytrá řešení pro domácnosti
 
-## ⚡ Nižší spotřeba energie, vyšší komfort
-
-Pomáháme domácnostem řídit energii, technologie a provoz domu tak, aby vše fungovalo automaticky, úsporně a bez starostí.
+Monitoring, automatizace a řízení technologií v domácnosti.
 
 ---
 
-# 🧠 Co umíme zajistit
+## ⚙️ Co řešíme
 
-## 🔋 Úspora energie
-Inteligentní řízení vytápění a spotřebičů podle reálné potřeby.
-
-👉 Výsledek:
-- nižší účty za energie
-- stabilní teplota v domě
-- automatický provoz bez zásahů
+- řízení vytápění
+- monitoring spotřeby energií
+- dohled nad technologiemi
+- senzory vody a plynu
+- vzdálené ovládání a alarmy
 
 ---
 
-## 🛡️ Bezpečí domácnosti
-Senzory a monitoring, které hlídají kritické situace.
+## 💡 Typická řešení
 
-- únik vody
-- únik plynu
-- nestandardní stavy
+### 🔋 Energetický management
+- sledování spotřeby
+- využití přebytků z FVE
+- automatické řízení spotřebičů
 
-👉 Výsledek:
-- včasné upozornění
-- prevence škod
-- větší klid doma i na cestách
-
----
-
-# 💡 Příklady použití v praxi
-
-## 🍷 Smart vinařství
-Automatické hlídání:
-
-- teploty kvašení
-- hladin v tancích
-- provozních podmínek
-
-👉 vhodné pro menší vinařství a výrobu
-
----
-
-## 🔋 Energetický management domácnosti
-- sledování spotřeby v reálném čase
-- řízení spotřebičů podle přebytků z FVE
-- optimalizace provozu domu
-
-👉 výsledek: lepší využití energie a nižší náklady
-
----
-
-## 🌾 Chytré hospodářství
-- monitoring zásob vody
-- sledování krmiva
+### 🛡️ Monitoring domácnosti
+- únik vody nebo plynu
+- provozní alarmy
 - upozornění na mobil
 
-👉 méně starostí s kontrolou provozu
+### 🌾 Monitoring hospodářství a vinařství
+- teploty
+- hladiny
+- zásoby vody
+- vzdálený dohled
+
+### 💧 Inteligentní závlaha
+- řízení podle vlhkosti a počasí
+- automatický provoz
 
 ---
 
-## 💧 Inteligentní závlaha
-- zalévání podle vlhkosti půdy
-- zohlednění počasí
-- automatický režim
+## 📊 Přínosy
 
-👉 zahrada bez zbytečné práce a plýtvání vodou
-
----
-
-# 📊 Co tím získáte
-
-- ⏱️ méně starostí s provozem domu
-- 💰 nižší náklady na energie
-- 🧠 automatický dohled nad domácností
-- 🛡️ vyšší bezpečnost
-- 🌿 efektivnější využití zdrojů
+- nižší spotřeba energie
+- méně starostí s provozem
+- vzdálený přehled o domácnosti
+- vyšší bezpečnost
 
 ---
 
-# 🤝 Pro koho to je
+## 🤝 Pro koho
 
 - rodinné domy
-- chalupy a rekreační objekty
+- chalupy
 - vinařství
 - menší hospodářství
-- moderní domácnosti s FVE
+- domácnosti s FVE
 
 ---
 
-# 🚀 Chcete mít domácnost, která se řídí sama?
+## 🚀 Konzultace
 
-Stačí krátká konzultace a navrhneme řešení přesně pro váš dům.
+Navrhneme vhodné řešení pro váš dům nebo provoz.

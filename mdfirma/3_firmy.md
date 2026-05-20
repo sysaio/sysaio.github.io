@@ -1,73 +1,52 @@
 # 👔 Řešení pro firmy a živnostníky
 
-## 🚀 Méně rutiny, více času na skutečnou práci
-
-Pomáháme firmám automatizovat opakující se činnosti a získat přehled o tom, co se v provozu skutečně děje.
-
-Cílem je snížit počet manuálních zásahů, výjezdů a rozhodování „naslepo“.
+Automatizace, monitoring a vzdálený dohled nad technologiemi a provozem.
 
 ---
 
-# 🧠 Co umíme řešit
+## ⚙️ Co řešíme
 
-## ⚙️ Automatizace procesů
-Zbavujeme firmy rutinní administrativy a opakovaných činností.
-
-## 🔋 Správa provozu a majetku
-Získáte přehled o:
-
-- spotřebě energie
-- stavu zařízení
-- provozních odchylkách
-
-## 🛠️ Predikce a prevence
-Místo řešení poruch až po jejich vzniku je umíme předvídat.
+- automatizace rutinních procesů
+- monitoring zařízení a spotřeby
+- vzdálený dohled
+- prediktivní údržba
+- provozní data a alarmy
 
 ---
 
-# 💡 Typická řešení z praxe
+## 💡 Typická řešení
 
-## 🔧 Prediktivní údržba
-Sledování stavu strojů (např. vibrace, teplota, provozní data)
+### 🔧 Prediktivní údržba
+Sledování:
+- vibrací
+- teplot
+- provozních stavů
 
-👉 Výsledek:
-- méně poruch
-- méně neplánovaných odstávek
+### 🌐 Vzdálený monitoring
+- dohled bez výjezdu technika
+- online přístup k datům
+- upozornění na poruchy
+
+---
+
+## 📊 Přínosy
+
+- méně výpadků
 - nižší servisní náklady
-
----
-
-## 🌐 Vzdálený dohled nad technologiemi
-
-Monitoring zařízení bez nutnosti fyzického výjezdu technika.
-
-👉 Výsledek:
-- úspora času servisních zásahů
+- méně manuálních zásahů
 - rychlejší reakce na problémy
-- přehled o stavu v reálném čase
 
 ---
 
-# 📊 Co tím získáte
-
-- ⏱️ méně manuální práce
-- 🚗 méně zbytečných výjezdů
-- 💰 nižší provozní náklady
-- 🧠 lepší rozhodování díky datům
-- 🔧 vyšší spolehlivost provozu
-
----
-
-# 🤝 Pro koho to je
+## 🤝 Pro koho
 
 - výrobní firmy
 - servisní společnosti
 - technické provozy
-- malé a střední podniky
-- živnostníci s vlastní technikou
+- živnostníci
 
 ---
 
-# 🚀 Chcete zjistit, co by šlo zautomatizovat u vás?
+## 🚀 Konzultace
 
-Stačí krátká konzultace a navrhneme konkrétní možnosti pro váš provoz.
+Navrhneme možnosti automatizace a monitoringu pro váš provoz.
