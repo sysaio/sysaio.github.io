@@ -38,7 +38,7 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 </a>
 
 <!-- Minimapka -->
-<iframe style="border:none" src="https://mapy.com/s/motakevova" width="400" height="280" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/holusopoza" width="400" height="280" frameborder="0"></iframe>
 
 <!-- Textové odkazy -->
 - 🗺️ <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
