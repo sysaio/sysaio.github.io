@@ -28,37 +28,6 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 ### 📱 **Zavolejte:** 602 941 181
 ### 📧 **Napište:** kocian.libor@seznam.cz
 
-
-
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps)](https://maps.app.goo.gl/unh45Vpv856czuGMA)
-
-[![Mapy.cz](https://img.shields.io/badge/Mapy.cz-Navigace-blue)](https://mapy.com/s/pefatalajo)
-
-- 🗺️ [Google Maps – Ubytování u Micky](https://maps.app.goo.gl/unh45Vpv856czuGMA)
-
-- 🌍 [Mapy.com – navigace](https://mapy.com/s/pefatalajo)
-
-
-<a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps" alt="Google Maps">
-</a>
-
-<a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Mapy.cz-Navigace-blue" alt="Mapy.cz">
-</a>
-
-
-- 🗺️ <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
-  Google Maps – Ubytování u Micky
-</a>
-
-- 🌍 <a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
-  Mapy.com – navigace
-</a>
-
-
-
-
 <!-- Badge odkazy -->
 <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Google%20Maps-Otevřít%20mapu-green?logo=googlemaps" alt="Google Maps">
@@ -68,7 +37,8 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
   <img src="https://img.shields.io/badge/Mapy.cz-Navigace-blue" alt="Mapy.cz">
 </a>
 
-<br><br>
+<!-- Minimapka -->
+<iframe style="border:none" src="https://mapy.com/s/motakevova" width="400" height="280" frameborder="0"></iframe>
 
 <!-- Textové odkazy -->
 - 🗺️ <a href="https://maps.app.goo.gl/unh45Vpv856czuGMA" target="_blank" rel="noopener noreferrer">
@@ -78,11 +48,6 @@ Navrhujeme technologie, které zrychlují provoz a zvyšují efektivitu.
 - 🌍 <a href="https://mapy.com/s/cesakosebo" target="_blank" rel="noopener noreferrer">
   Mapy.com – navigace
 </a>
-
-
-
-
-<iframe style="border:none" src="https://mapy.com/s/motakevova" width="400" height="280" frameborder="0"></iframe>
 
 ---
 
