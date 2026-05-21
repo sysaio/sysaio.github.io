@@ -11,6 +11,19 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 [![Google Reviews](https://img.shields.io/badge/Google-Napsat%20recenzi-blue?logo=google)](https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw)
 
+<a href="https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google-Napsat%20recenzi-blue?logo=google"
+       alt="Google Reviews">
+</a>
+
+<a href="https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw"
+   target="_blank"
+   rel="noopener noreferrer">
+   👉 Napsat recenzi na Google Maps
+</a>
+
 ---
 
 ## 💰 Ceník ubytování
