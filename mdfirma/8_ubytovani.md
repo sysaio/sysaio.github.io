@@ -7,10 +7,6 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## Hodnocení
 
-👉 [Napsat recenzi na Google Maps](https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw)
-
-[![Google Reviews](https://img.shields.io/badge/Google-Napsat%20recenzi-blue?logo=google)](https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw)
-
 <a href="https://search.google.com/local/writereview?placeid=ChIJ1U1OUQAnE0cR8a7K8JJisHw"
    target="_blank"
    rel="noopener noreferrer">
