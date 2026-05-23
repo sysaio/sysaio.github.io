@@ -1,6 +1,6 @@
 # 🧪 Reference
 
-Nový samostatný projekt postavený na více než 20 letech praxe v:
+Samostatný projekt postavený na více než 20 letech praxe v:
 - IT a systémové analýze
 - automatizaci a MaR
 - embedded systémech
