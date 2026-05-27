@@ -24,14 +24,14 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## 💰 Ceník ubytování
 
-| Počet osob | Cena za apartmán / noc | Cena za osobu |
-|---|---:|---:|
-| 1 osoba | 1 700 Kč | 1 700 Kč |
-| 2 osoby | 1 900 Kč | 950 Kč |
-| 3 osoby | 2 100 Kč | 700 Kč |
-| 4 osoby | 2 300 Kč | 575 Kč |
-| 5 osob | 2 500 Kč | 500 Kč |
-| 6 osob | 2 700 Kč | 450 Kč |
+| Počet osob | Cena za apartmán / noc | 
+|---|---:|
+| 1 osoba | 1 700 Kč |
+| 2 osoby | 1 900 Kč |
+| 3 osoby | 2 100 Kč |
+| 4 osoby | 2 300 Kč |
+| 5 osob | 2 500 Kč |
+| 6 osob | 2 700 Kč |
 
 🥐 Snídaně v ceně
 👶 Jedno dítě do 3 let zdarma
