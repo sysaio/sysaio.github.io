@@ -24,7 +24,7 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## 💰 Ceník ubytování za celý apartmán na jednu noc
 
-| Počet osob | Příjezd po-čt | Příjezd pá-ne | 
+| Počet osob | po,út,st,čt | pá,so,ne |
 |---|---:|---:|
 | 1 osoba | 1 700 Kč | 2 500 Kč |
 | 2 osoby | 1 900 Kč | 2 800 Kč |
