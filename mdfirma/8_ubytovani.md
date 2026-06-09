@@ -26,12 +26,12 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 | Počet osob | po,út,st,čt | pá,so,ne |
 |---|---:|---:|
-| 1 osoba | 1 700 Kč | 2 500 Kč |
-| 2 osoby | 1 900 Kč | 2 800 Kč |
-| 3 osoby | 2 100 Kč | 3 100 Kč |
+| 1 osoba | 1 700 Kč | 2 800 Kč |
+| 2 osoby | 1 900 Kč | 3 000 Kč |
+| 3 osoby | 2 100 Kč | 3 200 Kč |
 | 4 osoby | 2 300 Kč | 3 400 Kč |
-| 5 osob | 2 500 Kč | 3 700 Kč |
-| 6 osob | 2 700 Kč | 4 000 Kč |
+| 5 osob | 2 500 Kč | 3 600 Kč |
+| 6 osob | 2 700 Kč | 3 800 Kč |
 
 🥐 Snídaně v ceně
 👶 Jedno dítě do 3 let zdarma
@@ -65,13 +65,10 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 📧 kocian.libor@seznam.cz
 📱 +420 602 941 181
-
-🕒 Check-in: 15:00–22:00
-
 💡 Nejlepší cena při přímé rezervaci telefonicky nebo e-mailem.
 
-
 ## 📍 Adresa: Hradčany 390, 696 13 Šardice
+🕒 Check-in: 15:00–22:00
 
 📌 **Mapy:**
 
