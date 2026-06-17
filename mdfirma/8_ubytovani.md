@@ -24,15 +24,15 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## 💰 Ceník ubytování za celý apartmán na jednu noc
 
-### Neděle – Čtvrtek
-* **1 osoba:** 1 680 Kč*
+### Neděle – Čtvrtek "*"
+* **1 osoba:** 1 680 Kč
 * **2 osoby:** 1 960 Kč
 * **3 osoby:** 2 100 Kč
 * **4 osoby:** 2 380 Kč
 * **5 osob:** 2 660 Kč
 * **6 osob:** 2 940 Kč
 
-### Pátek – Sobota
+### Pátek – Sobota "*"
 * **1 osoba:** 2 940 Kč
 * **2 osoby:** 3 220 Kč
 * **3 osoby:** 3 360 Kč
