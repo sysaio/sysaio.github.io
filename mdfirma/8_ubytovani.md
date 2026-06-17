@@ -26,12 +26,12 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 | Počet osob | po,út,st,čt,ne | pá,so |
 |---|---:|---:|
-| 1 osoba | 1 700 Kč | 2 800 Kč |
-| 2 osoby | 1 900 Kč | 3 000 Kč |
-| 3 osoby | 2 100 Kč | 3 200 Kč |
-| 4 osoby | 2 300 Kč | 3 400 Kč |
-| 5 osob | 2 500 Kč | 3 600 Kč |
-| 6 osob | 2 700 Kč | 3 800 Kč |
+| 1 osoba | 1 680 Kč | 2 940 Kč |
+| 2 osoby | 1 960 Kč | 3 220 Kč |
+| 3 osoby | 2 100 Kč | 3 360 Kč |
+| 4 osoby | 2 380 Kč | 3 640 Kč |
+| 5 osob | 2 660 Kč | 3 920 Kč |
+| 6 osob | 2 940 Kč | 4 200 Kč |
 
 🥐 Snídaně v ceně
 👶 Jedno dítě do 3 let zdarma
