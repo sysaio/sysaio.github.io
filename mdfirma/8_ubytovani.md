@@ -72,7 +72,7 @@ Ideální pro rodiny, přátele i menší skupiny.
 
 ## 📞 Kontakt a rezervace
 
-📧 kocian.libor@seznam.cz
+📧 info@umicky.cz
 📱 +420 602 941 181
 💡 Nejlepší cena při přímé rezervaci telefonicky nebo e-mailem.
 
